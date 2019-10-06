@@ -1,0 +1,2230 @@
+
+
+Annex  2 referred to in Chapter 3
+
+Product Specific Rules
+
+
+Part 1 General Notes
+
+
+For the purposes of the product specific rules set out in this Annex:
+
+(a)	the product specific rule, or specific set of rules, that applies to a particular Chapter, heading or subheading is set out immediately adjacent to the Chapter, heading or subheading;
+
+(b)	where the specific set of rules provides for more than one rule to be selectively applied, the order of the description of the rules does not indicate priority of application;
+
+(c)	reference to weight in this Annex means dry weight unless otherwise specified in the Harmonized System;
+
+(d)	the following definitions apply:
+
+(i)	“QVC 40” or “QVC 50” respectively means that the good has a qualifying value content, calculated using the formula set out in Article 3.4, of not less than 40 percent or
+50 percent, and the final process of production has been performed in a Party;
+
+Note:	For the purposes of this Annex, paragraph 1 of Article 3.4 shall apply.
+
+(ii)	“CC” denotes a change to the Chapter, heading or subheading from any other Chapter. This means that all non-originating materials used in the production of the good have undergone a change in tariff classification at the 2-digit level (i.e. a change in Chapter) of the HS;
+ 
+
+
+(iii)	“CTH” denotes a change to the Chapter, heading or subheading from any other heading. This means that all non-originating materials used in the production of the good have undergone a change in tariff classification at the 4-digit level (i.e. a change in heading) of the HS;
+
+(iv)	“CTSH” denotes a change to the Chapter, heading or subheading from any other subheading. This means that all non- originating materials used in the production of the good have undergone a change in tariff classification at the 6-digit level (i.e. a change in subheading) of the HS; and
+
+(v)	“WO” means that the good is wholly obtained or produced entirely in a Party as defined in Article 3.3;
+
+Note:	For greater certainty, Article 3.6 applies with respect to goods to which “WO” is indicated in the product specific rules set out in this Annex.
+
+(e)	this Annex is based on the Harmonized System as amended on January 1, 2012; and
+
+(f)	specific percentage referred to in Article 3.6, which relates to the total value or the total weight of non-originating materials used in the production of a good that do not satisfy an applicable rule for the good, is as follows:
+
+(i)	in the case of a good provided for in Chapters 1 through 49 and 64 through 97 of the HS, 10 percent in value of the good; and
+
+(ii)	in the case of a good provided for in Chapters 50 through 63 of the HS, 10 percent by weight of the good.
+ 
+
+
+Note 1: The term “value of non-originating materials” means the value determined in accordance with paragraph 3 of Article 3.4.
+
+Note 2: The term “value of the good” means the free-on-board value of the good referred to in paragraph 1 of Article 3.4 or the value set out in paragraph 2 of that Article.
+ 
+
+
+Part 2
+Product Specific Rules
+
+
+Tariff Item Number	Product Specific Rules
+Section I
+Chapter 1	CC
+Chapter 2	CC except from Chapter 1
+Chapter 3	CC
+Chapter 4	CC
+Chapter 5	CC
+Section II
+Chapter 6	CC
+Chapter 7	CC
+Chapter 8	CC
+Chapter 9	CC
+Chapter 10	CC
+Chapter 11	11.01	1101.00	CC except from Chapter 10
+	11.02	CC except from Chapter 10
+	11.03	CC except from Chapter 10
+	11.04	CC except from Chapter 10
+	11.05	CC except from Chapter 7
+	11.06	1106.10	CC except from Chapter 7
+		1106.20	CC except from Chapter 7
+		1106.30	CC except from Chapter 8
+	11.07	CC except from Chapter 10
+	11.08	1108.11	CC except from Chapter 10
+		1108.12	CC except from Chapter 10
+		1108.13	CC except from Chapter 7
+		1108.14	CC except from Chapter 7
+		1108.19	CC except from Chapter 7 or 10
+		1108.20	CC except from Chapter 7
+	11.09	1109.00	CC except from Chapter 10
+Chapter 12	CC
+Chapter 13	CC
+Chapter 14	CC
+Section III
+Chapter 15	15.01	CC
+	15.02	CC
+	15.03	1503.00	CC
+	15.04	CC
+	15.05	1505.00	CC
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	15.06	1506.00	CC
+	15.07	CC except from Chapter 12
+	15.08	CC except from Chapter 12
+	15.09	CC except from Chapter 7
+	15.10	1510.00	CC except from Chapter 7
+	15.11	CC except from Chapter 12
+	15.12	1512.11	CC except from Chapter 12
+		1512.19	CC except from Chapter 12
+		1512.21	CC
+		1512.29	CC
+	15.13	CC except from Chapter 12
+	15.14	CC except from Chapter 12
+	15.15	1515.11	CC except from Chapter 12
+		1515.19	CC except from Chapter 12
+		1515.21	CC except from Chapter 10
+		1515.29	CC except from Chapter 10
+		1515.30	CC except from Chapter 12
+		1515.50	CC except from Chapter 12
+		1515.90	CC except from Chapter 12
+	15.16	CC
+	15.17	CC
+	15.18	1518.00	CC
+	15.20	1520.00	CC
+	15.21	CC
+	15.22	1522.00	CC
+Section IV
+Chapter 16	16.01	1601.00	CC except from Chapter 1 or 2
+	16.02	1602.10	CC except from Chapter 1 or 2
+		1602.20	CC except from Chapter 1 or 2
+		1602.31	CC except from Chapter 1 or 2
+		1602.32	CC except from Chapter 1 or 2
+		1602.39	CC except from Chapter 1 or 2
+		1602.41	CC except from Chapter 1 or 2
+		1602.42	CC except from Chapter 1 or 2
+		1602.49	CC except from Chapter 1 or 2
+		1602.50	CC except from Chapter 1 or 2
+		1602.90	CC
+	16.03	1603.00	CC except from Chapter 3
+	16.04	CC except from Chapter 3
+	16.05	CC except from Chapter 3
+Chapter 17	17.01	CC except from Chapter 12
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	17.02	1702.11	CC except from Chapter 4
+		1702.19	CC except from Chapter 4
+		1702.20	CC
+		1702.30	CC except from Chapter 11 or 12
+		1702.40	CC except from Chapter 11 or 12
+		1702.50	CC except from Chapter 11 or 12
+		1702.60	CC except from Chapter 11 or 12
+		1702.90	CC except from Chapter 11
+	17.03	CC except from Chapter 12
+	17.04	CC
+Chapter 18	18.01	1801.00	CC
+	18.02	1802.00	CC
+	18.03	CC
+	18.04	1804.00	CC
+	18.05	1805.00	CC
+	18.06	1806.10	CC except from Chapter 17
+		1806.20	CC except from Chapter 4, 17 or 19
+		1806.31	CC except from Chapter 4, 17 or 19
+		1806.32	CC except from Chapter 4, 17 or 19
+		1806.90	CC except from Chapter 4, 17 or 19
+Chapter 19	19.01	CC except from Chapter 4, 10, 11, 17 or 21
+	19.02	1902.11	CC except from Chapter 10 or 11
+		1902.19	CC except from Chapter 10 or 11
+		1902.20	CC except from Chapter 1, 2, 3, 10 or 11
+		1902.30	CC except from Chapter 10 or 11
+		1902.40	CC except from Chapter 10 or 11
+	19.03	1903.00	CC except from Chapter 11
+	19.04	1904.10	CC except from Chapter 10 or 11
+		1904.20	CC except from Chapter 10 or 11
+		1904.30	CC
+		1904.90	CC except from Chapter 10 or 11
+	19.05	CC except from Chapter 10 or 11
+Chapter 20	20.01	2001.10	CC except from Chapter 7
+		2001.90	CC except from Chapter 7 or 8
+	20.02	CC except from Chapter 7
+	20.03	CC except from Chapter 7
+	20.04	CC except from Chapter 7
+	20.05	CC except from Chapter 7
+	20.06	2006.00	CC except from Chapter 7 or 8
+	20.07	CC except from Chapter 8
+	20.08	2008.11	CC except from Chapter 12
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		2008.19	CC except from Chapter 8
+		2008.20	CC except from Chapter 8
+		2008.30	CC except from Chapter 8
+		2008.40	CC except from Chapter 8
+		2008.50	CC except from Chapter 8
+		2008.60	CC except from Chapter 8
+		2008.70	CC except from Chapter 8
+		2008.80	CC except from Chapter 8
+		2008.91	CC except from Chapter 8
+		2008.93	CC except from Chapter 8
+		2008.97	CC except from Chapter 8
+		2008.99	CC except from Chapter 7 or 8
+	20.09	2009.11	CC except from Chapter 8
+		2009.12	CC except from Chapter 8
+		2009.19	CC except from Chapter 8
+		2009.21	CC except from Chapter 8
+		2009.29	CC except from Chapter 8
+		2009.31	CC except from Chapter 8
+		2009.39	CC except from Chapter 8
+		2009.41	CC except from Chapter 8
+		2009.49	CC except from Chapter 8
+		2009.50	CC except from Chapter 7
+		2009.61	CC except from Chapter 8
+		2009.69	CC except from Chapter 8
+		2009.71	CC except from Chapter 8
+		2009.79	CC except from Chapter 8
+		2009.81	CC except from Chapter 8
+		2009.89	CC except from Chapter 7 or 8
+		2009.90	CC except from Chapter 7 or 8
+Chapter 21	21.01	2101.11	CC except from Chapter 9
+		2101.12	CC except from Chapter 9
+		2101.20	CC except from Chapter 9
+		2101.30	CC except from Chapter 10 or 19
+	21.02	2102.10	CC
+		2102.20	CC
+		2102.30	CC except from Chapter 10 or 11
+	21.03	2103.10	CC
+		2103.20	CC
+		2103.30	CC
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		2103.90	1.	CTSH for instant curry and other curry preparations
+2.	CC for any other good
+	21.04	CC except from Chapter 7 or 20
+	21.05	2105.00	CC except from Chapter 4 or 19
+	21.06	2106.10	CC except from Chapter 4 or 19
+		2106.90	QVC 50
+Chapter 22	22.01	CC
+	22.02	2202.10	CC
+		2202.90	QVC 40
+	22.03	2203.00	CTH
+	22.04	CC except from Chapter 8 or 20
+	22.05	CC except from Chapter 8 or 20
+	22.06	2206.00	CC except from Chapter 8 or 20
+	22.07	CC
+	22.08	2208.20	CTH except from heading 22.07, or QVC 40
+		2208.30	CTH except from heading 22.07, or QVC 40
+		2208.40	CTH except from heading 22.07
+		2208.50	CTH except from heading 22.07
+		2208.60	CTH except from heading 22.07
+		2208.70	CTH except from heading 22.07, or QVC 40
+		2208.90	1.	CTH and QVC 40 for sake compounds and cooking sake (Mirin)
+2.	CC except from Chapter 8 or 20 for beverage with a basis of fruit juices of an alcoholic strength by volume of less than 1% vol.
+3.	CTH except from heading 22.07 for any other good
+	22.09	2209.00	CC
+Chapter 23	23.01	CC
+	23.02	CC
+	23.03	CC
+	23.04	2304.00	CC
+	23.05	2305.00	CC
+	23.06	CC
+	23.07	2307.00	CC
+	23.08	2308.00	CC
+	23.09	CC and QVC 40
+Chapter 24	24.01	2401.10	CC
+		2401.20	CC
+		2401.30	CTSH
+	24.02	CTH
+	24.03	CTH
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+Section V
+Chapter 25	25.01	2501.00	CC
+	25.02	2502.00	CTH or QVC 40
+	25.03	2503.00	CTH or QVC 40
+	25.04	CTH or QVC 40
+	25.05	CTH or QVC 40
+	25.06	CTH or QVC 40
+	25.07	2507.00	CTH or QVC 40
+	25.08	CTH or QVC 40
+	25.09	2509.00	CTH or QVC 40
+	25.10	CTH or QVC 40
+	25.11	CTH or QVC 40
+	25.12	2512.00	CTH or QVC 40
+	25.13	CTH or QVC 40
+	25.14	2514.00	CTH or QVC 40
+	25.15	CTH or QVC 40
+	25.16	CTH or QVC 40
+	25.17	CTH or QVC 40
+	25.18	CTH or QVC 40
+	25.19	CTH or QVC 40
+	25.20	2520.10	CTH or QVC 40
+		2520.20	CTSH or QVC 40
+	25.21	2521.00	CTH or QVC 40
+	25.22	CTH or QVC 40
+	25.23	2523.10	CTH or QVC 40
+		2523.21	CTSH or QVC 40
+		2523.29	CTH or QVC 40
+		2523.30	CTH or QVC 40
+		2523.90	CTH or QVC 40
+	25.24	CTH or QVC 40
+	25.25	2525.10	CTH or QVC 40
+		2525.20	CTH or QVC 40
+		2525.30	WO
+	25.26	CTH or QVC 40
+	25.28	2528.00	CTH or QVC 40
+	25.29	CTH or QVC 40
+	25.30	CTH or QVC 40
+Chapter 26	26.01	CTH or QVC 40
+	26.02	2602.00	CTH or QVC 40
+	26.03	2603.00	CTH or QVC 40
+	26.04	2604.00	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	26.05	2605.00	CTH or QVC 40
+	26.06	2606.00	CTH or QVC 40
+	26.07	2607.00	CTH or QVC 40
+	26.08	2608.00	CTH or QVC 40
+	26.09	2609.00	CTH or QVC 40
+	26.10	2610.00	CTH or QVC 40
+	26.11	2611.00	CTH or QVC 40
+	26.12	CTH or QVC 40
+	26.13	CTH or QVC 40
+	26.14	2614.00	CTH or QVC 40
+	26.15	CTH or QVC 40
+	26.16	CTH or QVC 40
+	26.17	CTH or QVC 40
+	26.18	2618.00	WO
+	26.19	2619.00	WO
+	26.20	WO
+	26.21	WO
+Chapter 27	27.01	2701.11	CTH or QVC 40
+		2701.12	CTH or QVC 40
+		2701.19	CTH or QVC 40
+		2701.20	CC
+	27.02	CTH or QVC 40
+	27.03	2703.00	CTH or QVC 40
+	27.04	2704.00	CTH or QVC 40
+	27.05	2705.00	CTH or QVC 40
+	27.06	2706.00	CTH or QVC 40
+	27.07	CTH or QVC 40
+	27.08	CTH or QVC 40
+	27.09	2709.00	CTH or QVC 40
+	27.10	2710.12	CTH or QVC 40
+		2710.19	CTH or QVC 40
+		2710.20	CTH or QVC 40
+		2710.91	WO
+		2710.99	WO
+	27.11	CTH or QVC 40
+	27.12	CTH or QVC 40
+	27.13	CTH or QVC 40
+	27.14	CTH or QVC 40
+	27.15	2715.00	CTH or QVC 40
+Section VI
+Chapter 28	28.01	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	28.02	2802.00	CTH or QVC 40
+	28.03	2803.00	CTH or QVC 40
+	28.04	CTSH or QVC 40
+	28.05	CTSH or QVC 40
+	28.06	CTSH or QVC 40
+	28.07	2807.00	CTH or QVC 40
+	28.08	2808.00	CTH or QVC 40
+	28.09	CTSH or QVC 40
+	28.10	2810.00	CTH or QVC 40
+	28.11	CTSH or QVC 40
+	28.12	CTSH or QVC 40
+	28.13	CTSH or QVC 40
+	28.14	CTSH or QVC 40
+	28.15	CTSH or QVC 40
+	28.16	CTSH or QVC 40
+	28.17	2817.00	CTH or QVC 40
+	28.18	CTSH or QVC 40
+	28.19	CTSH or QVC 40
+	28.20	CTSH or QVC 40
+	28.21	CTSH or QVC 40
+	28.22	2822.00	CTH or QVC 40
+	28.23	2823.00	CTH or QVC 40
+	28.24	CTSH or QVC 40
+	28.25	CTSH or QVC 40
+	28.26	CTSH or QVC 40
+	28.27	CTSH or QVC 40
+	28.28	CTSH or QVC 40
+	28.29	CTSH or QVC 40
+	28.30	CTSH or QVC 40
+	28.31	CTSH or QVC 40
+	28.32	CTSH or QVC 40
+	28.33	CTSH or QVC 40
+	28.34	CTSH or QVC 40
+	28.35	CTSH or QVC 40
+	28.36	CTSH or QVC 40
+	28.37	CTSH or QVC 40
+	28.39	CTSH or QVC 40
+	28.40	CTSH or QVC 40
+	28.41	CTSH or QVC 40
+	28.42	CTSH or QVC 40
+	28.43	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	28.44	CTSH or QVC 40
+	28.45	CTSH or QVC 40
+	28.46	CTSH or QVC 40
+	28.47	2847.00	CTH or QVC 40
+	28.48	2848.00	CTH or QVC 40
+	28.49	CTSH or QVC 40
+	28.50	2850.00	CTH or QVC 40
+	28.52	CTSH or QVC 40
+	28.53	2853.00	CTH or QVC 40
+Chapter 29	29.01	CTSH or QVC 40
+	29.02	CTSH or QVC 40
+	29.03	CTSH or QVC 40
+	29.04	CTSH or QVC 40
+	29.05	2905.11	CTSH or QVC 40
+		2905.12	CTSH or QVC 40
+		2905.13	CTSH or QVC 40
+		2905.14	CTSH or QVC 40
+		2905.16	CTSH or QVC 40
+		2905.17	CTSH or QVC 40
+		2905.19	CTSH or QVC 40
+		2905.22	CTSH or QVC 40
+		2905.29	CTSH or QVC 40
+		2905.31	CTSH or QVC 40
+		2905.32	CTSH or QVC 40
+		2905.39	CTSH or QVC 40
+		2905.41	CTSH or QVC 40
+		2905.42	CTSH or QVC 40
+		2905.43	CC except from Chapter 7, 12 or 17
+		2905.44	CC except from Chapter 7, 12 or 17
+		2905.45	CC except from Chapter 15
+		2905.49	CTSH or QVC 40
+		2905.51	CTSH or QVC 40
+		2905.59	CTSH or QVC 40
+	29.06	2906.11	CC except from Chapter 33
+		2906.12	CTSH or QVC 40
+		2906.13	CTSH or QVC 40
+		2906.19	CTSH or QVC 40
+		2906.21	CTSH or QVC 40
+		2906.29	CTSH or QVC 40
+	29.07	CTSH or QVC 40
+	29.08	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	29.09	CTSH or QVC 40
+	29.10	CTSH or QVC 40
+	29.11	2911.00	CTH or QVC 40
+	29.12	CTSH or QVC 40
+	29.13	2913.00	CTH or QVC 40
+	29.14	CTSH or QVC 40
+	29.15	CTSH or QVC 40
+	29.16	CTSH or QVC 40
+	29.17	CTSH or QVC 40
+	29.18	2918.11	CTSH or QVC 40
+		2918.12	CTSH or QVC 40
+		2918.13	CTSH or QVC 40
+		2918.14	CC except from Chapter 17 or 23
+		2918.15	CC except from Chapter 17 or 23
+		2918.16	CTSH or QVC 40
+		2918.18	CTSH or QVC 40
+		2918.19	CTSH or QVC 40
+		2918.21	CTSH or QVC 40
+		2918.22	CTSH or QVC 40
+		2918.23	CTSH or QVC 40
+		2918.29	CTSH or QVC 40
+		2918.30	CTSH or QVC 40
+		2918.91	CTSH or QVC 40
+		2918.99	CTSH or QVC 40
+	29.19	CTSH or QVC 40
+	29.20	CTSH or QVC 40
+	29.21	CTSH or QVC 40
+	29.22	2922.11	CTSH or QVC 40
+		2922.12	CTSH or QVC 40
+		2922.13	CTSH or QVC 40
+		2922.14	CTSH or QVC 40
+		2922.19	CTSH or QVC 40
+		2922.21	CTSH or QVC 40
+		2922.29	CTSH or QVC 40
+		2922.31	CTSH or QVC 40
+		2922.39	CTSH or QVC 40
+		2922.41	CTSH or QVC 40
+		2922.42	CC except from Chapter 12 or 17
+		2922.43	CTSH or QVC 40
+		2922.44	CTSH or QVC 40
+		2922.49	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		2922.50	CTSH or QVC 40
+	29.23	2923.10	CTSH or QVC 40
+		2923.20	CTH
+		2923.90	CTSH or QVC 40
+	29.24	2924.11	CTSH or QVC 40
+		2924.12	CTSH or QVC 40
+		2924.19	CTSH or QVC 40
+		2924.21	CTSH or QVC 40
+		2924.23	CTSH or QVC 40
+		2924.24	CTSH or QVC 40
+		2924.29	CTH
+	29.25	CTSH or QVC 40
+	29.26	CTSH or QVC 40
+	29.27	2927.00	CTH or QVC 40
+	29.28	2928.00	CTH or QVC 40
+	29.29	CTSH or QVC 40
+	29.30	CTSH or QVC 40
+	29.31	CTSH or QVC 40
+	29.32	CTSH or QVC 40
+	29.33	CTSH or QVC 40
+	29.34	CTSH or QVC 40
+	29.35	2935.00	CTH or QVC 40
+	29.36	CTSH or QVC 40
+	29.37	CTSH or QVC 40
+	29.38	2938.10	CTSH or QVC 40
+		2938.90	CTH
+	29.39	CTSH or QVC 40
+	29.40	CTH except from Chapter 17
+	29.41	CTSH or QVC 40
+	29.42	2942.00	CTH or QVC 40
+Chapter 30	30.01	CTSH or QVC 40
+	30.02	CTSH or QVC 40
+	30.03	CTSH or QVC 40
+	30.04	CTSH or QVC 40
+	30.05	CTSH or QVC 40
+	30.06	3006.10	CTSH or QVC 40
+		3006.20	CTSH or QVC 40
+		3006.30	CTSH or QVC 40
+		3006.40	CTSH or QVC 40
+		3006.50	CTSH or QVC 40
+		3006.60	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		3006.70	CTSH or QVC 40
+		3006.91	CTSH or QVC 40
+		3006.92	WO
+Chapter 31	31.01	3101.00	CTH or QVC 40
+	31.02	CTSH or QVC 40
+	31.03	CTSH or QVC 40
+	31.04	CTSH or QVC 40
+	31.05	CTSH or QVC 40
+Chapter 32	32.01	3201.10	CTSH or QVC 40
+		3201.20	CTSH or QVC 40
+		3201.90	CTH
+	32.02	CTSH or QVC 40
+	32.03	3203.00	CTH or QVC 40
+	32.04	CTSH or QVC 40
+	32.05	3205.00	CTH or QVC 40
+	32.06	CTSH or QVC 40
+	32.07	CTSH or QVC 40
+	32.08	CTSH or QVC 40
+	32.09	CTSH or QVC 40
+	32.10	3210.00	CTH or QVC 40
+	32.11	3211.00	CTH or QVC 40
+	32.12	CTSH or QVC 40
+	32.13	CTSH or QVC 40
+	32.14	CTSH or QVC 40
+	32.15	CTSH or QVC 40
+Chapter 33	33.01	CTH
+	33.02	CTH or QVC 40
+	33.03	3303.00	CTH or QVC 40
+	33.04	CTH or QVC 40
+	33.05	CTH or QVC 40
+	33.06	CTH or QVC 40
+	33.07	CTH or QVC 40
+Chapter 34	34.01	CTSH or QVC 40
+	34.02	CTSH or QVC 40
+	34.03	CTSH or QVC 40
+	34.04	CTSH or QVC 40
+	34.05	CTSH or QVC 40
+	34.06	3406.00	CTH or QVC 40
+	34.07	3407.00	CTH or QVC 40
+Chapter 35	35.01	CTH
+	35.02	3502.11	CC except from Chapter 4
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		3502.19	CC except from Chapter 4
+		3502.20	CTH
+		3502.90	CTH
+	35.03	3503.00	CTH
+	35.04	3504.00	CTH
+	35.05	CC except from Chapter 11
+	35.06	CTSH or QVC 40
+	35.07	CTSH or QVC 40
+Chapter 36	36.01	3601.00	CTH or QVC 40
+	36.02	3602.00	CTH or QVC 40
+	36.03	3603.00	CTH or QVC 40
+	36.04	CTSH or QVC 40
+	36.05	3605.00	CTH or QVC 40
+	36.06	CTSH or QVC 40
+Chapter 37	37.01	CTSH or QVC 40
+	37.02	CTSH or QVC 40
+	37.03	CTSH or QVC 40
+	37.04	3704.00	CTH or QVC 40
+	37.05	CTSH or QVC 40
+	37.06	CTSH or QVC 40
+	37.07	CTSH or QVC 40
+Chapter 38	38.01	CTSH or QVC 40
+	38.02	3802.10	CTH
+		3802.90	CTSH or QVC 40
+	38.03	3803.00	CTH or QVC 40
+	38.04	3804.00	CTH or QVC 40
+	38.05	3805.10	CTSH or QVC 40
+		3805.90	CTSH
+	38.06	3806.10	CTSH or QVC 40
+		3806.20	CTSH or QVC 40
+		3806.30	CTSH
+		3806.90	CTSH or QVC 40
+	38.07	3807.00	CTH or QVC 40
+	38.08	CTSH or QVC 40
+	38.09	3809.10	CTH except from Chapter 11 or 35
+		3809.91	CTSH or QVC 40
+		3809.92	CTSH or QVC 40
+		3809.93	CTSH or QVC 40
+	38.10	CTSH or QVC 40
+	38.11	CTSH or QVC 40
+	38.12	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	38.13	3813.00	CTH or QVC 40
+	38.14	3814.00	CTH or QVC 40
+	38.15	CTSH or QVC 40
+	38.16	3816.00	CTH or QVC 40
+	38.17	3817.00	CTH or QVC 40
+	38.18	3818.00	CTH or QVC 40
+	38.19	3819.00	CTH or QVC 40
+	38.20	3820.00	CTH or QVC 40
+	38.21	3821.00	CTH or QVC 40
+	38.22	3822.00	CTH or QVC 40
+	38.23	CTH
+	38.24	3824.10	CTSH or QVC 40
+		3824.30	CTSH or QVC 40
+		3824.40	CTSH or QVC 40
+		3824.50	CTSH or QVC 40
+		3824.60	CTH except from Chapter 17
+		3824.71	CTSH or QVC 40
+		3824.72	CTSH or QVC 40
+		3824.73	CTSH or QVC 40
+		3824.74	CTSH or QVC 40
+		3824.75	CTSH or QVC 40
+		3824.76	CTSH or QVC 40
+		3824.77	CTSH or QVC 40
+		3824.78	CTSH or QVC 40
+		3824.79	CTSH or QVC 40
+		3824.81	CTSH or QVC 40
+		3824.82	CTSH or QVC 40
+		3824.83	CTSH or QVC 40
+		3824.90	CTSH or QVC 40
+	38.25	WO
+	38.26	3826.00	CTH or QVC 40
+Section VII
+Chapter 39	39.01	CTSH or QVC 40
+	39.02	CTSH or QVC 40
+	39.03	CTSH or QVC 40
+	39.04	CTSH or QVC 40
+	39.05	CTSH or QVC 40
+	39.06	CTSH or QVC 40
+	39.07	CTSH or QVC 40
+	39.08	CTSH or QVC 40
+	39.09	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	39.10	3910.00	CTH or QVC 40
+	39.11	CTSH or QVC 40
+	39.12	CTSH or QVC 40
+	39.13	CTSH or QVC 40
+	39.14	3914.00	CTH or QVC 40
+	39.15	CTSH or QVC 40
+	39.16	CTSH or QVC 40
+	39.17	CTSH or QVC 40
+	39.18	CTSH or QVC 40
+	39.19	CTSH or QVC 40
+	39.20	CTSH or QVC 40
+	39.21	CTSH or QVC 40
+	39.22	CTSH or QVC 40
+	39.23	CTSH or QVC 40
+	39.24	CTSH or QVC 40
+	39.25	CTSH or QVC 40
+	39.26	CTSH or QVC 40
+Chapter 40	40.01	CTH or QVC 40
+	40.02	CTH or QVC 40
+	40.03	4003.00	CTH or QVC 40
+	40.04	4004.00	CC except from Chapter 27
+	40.05	CTH or QVC 40
+	40.06	CTH or QVC 40
+	40.07	4007.00	CTH or QVC 40
+	40.08	CTH or QVC 40
+	40.09	CTH or QVC 40
+	40.10	CTH or QVC 40
+	40.11	CTH or QVC 40
+	40.12	4012.11	CTSH or QVC 40
+		4012.12	CTSH or QVC 40
+		4012.13	CTSH or QVC 40
+		4012.19	CTSH or QVC 40
+		4012.20	CC
+		4012.90	CC except from Chapter 27
+	40.13	CTH or QVC 40
+	40.14	CTH or QVC 40
+	40.15	CTH or QVC 40
+	40.16	CTH or QVC 40
+	40.17	4017.00	CC except from Chapter 27
+Section VIII
+Chapter 41	CC
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+Chapter 42	CC
+Chapter 43	CC
+Chapter 44	44.01	CTH
+	44.02	CTH
+	44.03	CTH
+	44.04	CTH
+	44.05	4405.00	CTH
+	44.06	CTH
+	44.07	CTH
+	44.08	CTH
+	44.09	CTH
+	44.10	CTH
+	44.11	CTH
+	44.12	CTH except from heading 44.07 or 44.08
+	44.13	4413.00	CTH
+	44.14	4414.00	CTH
+	44.15	CTH
+	44.16	4416.00	CTH
+	44.17	4417.00	CTH
+	44.18	CTH
+	44.19	4419.00	CTH
+	44.20	CTH
+	44.21	CTH
+Section IX
+Chapter 45	CTH or QVC 40
+Chapter 46	46.01	4601.21	CC
+		4601.22	CC
+		4601.29	CC except from Chapter 14
+		4601.92	CC
+		4601.93	CC
+		4601.94	CC except from Chapter 14
+		4601.99	CC
+	46.02	4602.11	CC
+		4602.12	CC
+		4602.19	CC except from Chapter 14
+		4602.90	CC
+Section X
+Chapter 47	47.01	4701.00	CTH or QVC 40
+	47.02	4702.00	CTH or QVC 40
+	47.03	CTH or QVC 40
+	47.04	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	47.05	4705.00	CTH or QVC 40
+	47.06	CTH or QVC 40
+	47.07	WO
+Chapter 48	CTH or QVC 40
+Chapter 49	CTH or QVC 40
+Section XI
+Chapter 50	50.01	5001.00	CC
+	50.02	5002.00	CC
+	50.03	5003.00	CC
+	50.04	5004.00	CTH
+	50.05	5005.00	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	50.06	5006.00	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	50.07	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 51	51.01	CC
+	51.02	CC
+	51.03	CC
+	51.04	5104.00	CC
+	51.05	CC
+	51.06	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	51.07	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	51.08	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	51.09	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	51.10	5110.00	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	51.11	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	51.12	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	51.13	5113.00	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 52	52.01	5201.00	CC
+	52.02	CC
+	52.03	5203.00	CC
+	52.04	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	52.05	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	52.06	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	52.07	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	52.08	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	52.09	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	52.10	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	52.11	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	52.12	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 53	53.01	CC
+	53.02	CC
+	53.03	CC
+	53.05	5305.00	CC
+	53.06	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	53.07	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	53.08	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	53.09	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	53.10	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	53.11	5311.00	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 54	54.01	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+	54.02	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+	54.03	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+	54.04	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+	54.05	5405.00	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	54.06	5406.00	Manufacture from chemical materials or textile pulp, provided that necessary process stipulated in the Appendix is undertaken
+	54.07	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	54.08	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 55	55.01	Manufacture from chemical materials or textile pulp
+	55.02	5502.00	Manufacture from chemical materials or textile pulp
+	55.03	Manufacture from chemical materials or textile pulp
+	55.04	Manufacture from chemical materials or textile pulp
+	55.05	Manufacture from chemical materials or textile pulp
+	55.06	Manufacture from chemical materials or textile pulp
+	55.07	5507.00	Manufacture from chemical materials or textile pulp
+	55.08	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	55.09	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	55.10	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	55.11	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+	55.12	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	55.13	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	55.14	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	55.15	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+	55.16	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 56	Manufacture from fibers, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 57	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 58	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 59	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+
+
+
+
+
+	
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+Chapter 60	Manufacture from yarns, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 61	Manufacture from fabrics, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 62	Manufacture from fabrics, provided that necessary process stipulated in the Appendix is undertaken
+Chapter 63	Manufacture from fabrics, provided that necessary process stipulated in the Appendix is undertaken
+Section XII
+Chapter 64	CC
+Chapter 65	65.01	6501.00	CC
+	65.02	6502.00	CC
+	65.04	6504.00	CTH
+	65.05	6505.00	CTH
+	65.06	CTH
+	65.07	6507.00	CTH
+Chapter 66	CTH or QVC 40
+Chapter 67	CTH or QVC 40
+Section XIII
+Chapter 68	CTH or QVC 40
+Chapter 69	CTH or QVC 40
+Chapter 70	70.01	7001.00	CTH or QVC 40
+	70.02	CTH or QVC 40
+	70.03	CTH or QVC 40
+	70.04	CTH or QVC 40
+	70.05	CTH or QVC 40
+	70.06	7006.00	CTH or QVC 40
+	70.07	CTH or QVC 40
+	70.08	7008.00	CTH or QVC 40
+	70.09	CTH or QVC 40
+	70.10	CTH or QVC 40
+	70.11	CTH or QVC 40
+	70.13	CTH or QVC 40
+	70.14	7014.00	CTH or QVC 40
+	70.15	CTH or QVC 40
+	70.16	CTH or QVC 40
+	70.17	CTH or QVC 40
+	70.18	7018.10	CC
+		7018.20	CTH or QVC 40
+		7018.90	CC
+	70.19	CTH or QVC 40
+	70.20	7020.00	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+Section XIV
+Chapter 71	71.01	CC
+	71.02	CTSH or QVC 40
+	71.03	CTSH or QVC 40
+	71.04	CTSH or QVC 40
+	71.05	CTSH or QVC 40
+	71.06	CTSH or QVC 40
+	71.07	7107.00	CTSH or QVC 40
+	71.08	CTSH or QVC 40
+	71.09	7109.00	CTH or QVC 40
+	71.10	CTH or QVC 40
+	71.11	7111.00	CTH or QVC 40
+	71.12	WO
+	71.13	CTH except from headings 71.14 through 71.18
+	71.14	CTH except from headings 71.13 or 71.15 through 71.18
+	71.15	CTH except from headings 71.13, 71.14 or 71.16
+through 71.18
+	71.16	CTH except from headings 71.13 through 71.15, 71.17 through 71.18, subheading 7101.22, 7102.39,
+7103.91, 7103.99 or 7104.90
+	71.17	CTH except from headings 71.13 through 71.16
+	71.18	CTH or QVC 40
+Section XV
+Chapter 72	72.01	CC or QVC 40
+	72.02	CTH or QVC 40
+	72.03	CTH or QVC 40
+	72.04	WO
+	72.05	CTH or QVC 40
+	72.06	CTH or QVC 40
+	72.07	CTH or QVC 40
+	72.08	7208.10	CTH or QVC 40
+		7208.25	CTSH or QVC 40
+		7208.26	CTSH or QVC 40
+		7208.27	CTSH or QVC 40
+		7208.36	CTH or QVC 40
+		7208.37	CTH or QVC 40
+		7208.38	CTH or QVC 40
+		7208.39	CTH or QVC 40
+		7208.40	CTH or QVC 40
+		7208.51	CTH or QVC 40
+		7208.52	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		7208.53	CTH or QVC 40
+		7208.54	CTH or QVC 40
+		7208.90	CTH or QVC 40
+	72.09	CTH or QVC 40
+	72.10	7210.11	CTH or QVC 40
+		7210.12	CTH or QVC 40
+		7210.20	CTH or QVC 40
+		7210.30	CTH or QVC 40
+		7210.41	CTH or QVC 40
+		7210.49	CTH or QVC 40
+		7210.50	CTH or QVC 40
+		7210.61	CTH or QVC 40
+		7210.69	CTH or QVC 40
+		7210.70	CTSH or QVC 40
+		7210.90	CTH or QVC 40
+	72.11	7211.13	CTH or QVC 40
+		7211.14	CTH or QVC 40
+		7211.19	CTH or QVC 40
+		7211.23	CTSH or QVC 40
+		7211.29	CTSH or QVC 40
+		7211.90	CTSH or QVC 40
+	72.12	7212.10	CTH or QVC 40
+		7212.20	CTH or QVC 40
+		7212.30	CTH or QVC 40
+		7212.40	CTSH or QVC 40
+		7212.50	CTH or QVC 40
+		7212.60	CTH or QVC 40
+	72.13	CTH or QVC 40
+	72.14	CTH or QVC 40
+	72.15	CTH or QVC 40
+	72.16	CTH or QVC 40
+	72.17	7217.10	CTH or QVC 40
+		7217.20	CTSH or QVC 40
+		7217.30	CTSH or QVC 40
+		7217.90	CTSH or QVC 40
+	72.18	CTH or QVC 40
+	72.19	7219.11	CTH or QVC 40
+		7219.12	CTH or QVC 40
+		7219.13	CTH or QVC 40
+		7219.14	CTH or QVC 40
+		7219.21	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		7219.22	CTH or QVC 40
+		7219.23	CTH or QVC 40
+		7219.24	CTH or QVC 40
+		7219.31	CTSH or QVC 40
+		7219.32	CTSH or QVC 40
+		7219.33	CTSH or QVC 40
+		7219.34	CTSH or QVC 40
+		7219.35	CTSH or QVC 40
+		7219.90	CTSH or QVC 40
+	72.20	7220.11	CTH or QVC 40
+		7220.12	CTH or QVC 40
+		7220.20	CTSH or QVC 40
+		7220.90	CTSH or QVC 40
+	72.21	7221.00	CTH or QVC 40
+	72.22	7222.11	CTH or QVC 40
+		7222.19	CTH or QVC 40
+		7222.20	CTSH or QVC 40
+		7222.30	CTSH or QVC 40
+		7222.40	CTH or QVC 40
+	72.23	7223.00	CTH or QVC 40
+	72.24	CTH or QVC 40
+	72.25	7225.11	CTH or QVC 40
+		7225.19	CTH or QVC 40
+		7225.30	CTH or QVC 40
+		7225.40	CTH or QVC 40
+		7225.50	CTSH or QVC 40
+		7225.91	CTSH or QVC 40
+		7225.92	CTSH or QVC 40
+		7225.99	CTSH or QVC 40
+	72.26	7226.11	CTH or QVC 40
+		7226.19	CTH or QVC 40
+		7226.20	CTH or QVC 40
+		7226.91	CTH or QVC 40
+		7226.92	CTSH or QVC 40
+		7226.99	CTSH or QVC 40
+	72.27	CTH or QVC 40
+	72.28	CTH or QVC 40
+	72.29	CTH or QVC 40
+Chapter 73	73.01	CTH or QVC 40
+	73.02	CTH or QVC 40
+	73.03	7303.00	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	73.04	CTH or QVC 40
+	73.05	CTH or QVC 40
+	73.06	CTH or QVC 40
+	73.07	CTH or QVC 40
+	73.08	CTH or QVC 40
+	73.09	7309.00	CTH or QVC 40
+	73.10	CTH or QVC 40
+	73.11	7311.00	CTH or QVC 40
+	73.12	CTH or QVC 40
+	73.13	7313.00	CTH or QVC 40
+	73.14	CTH or QVC 40
+	73.15	7315.11	CTSH or QVC 40
+		7315.12	CTSH or QVC 40
+		7315.19	CTSH or QVC 40
+		7315.20	CTH or QVC 40
+		7315.81	CTH or QVC 40
+		7315.82	CTH or QVC 40
+		7315.89	CTH or QVC 40
+		7315.90	CTH or QVC 40
+	73.16	7316.00	CTH or QVC 40
+	73.17	7317.00	CTH or QVC 40
+	73.18	CTH or QVC 40
+	73.19	CTH or QVC 40
+	73.20	CTH or QVC 40
+	73.21	CTH or QVC 40
+	73.22	CTH or QVC 40
+	73.23	CTH or QVC 40
+	73.24	CTH or QVC 40
+	73.25	CTH or QVC 40
+	73.26	CTH or QVC 40
+Chapter 74	74.01	7401.00	CC except from Chapter 26
+	74.02	7402.00	CTH or QVC 40
+	74.03	CTH or QVC 40
+	74.04	7404.00	WO
+	74.05	7405.00	CTH or QVC 40
+	74.06	CTH or QVC 40
+	74.07	CTH or QVC 40
+	74.08	CTH or QVC 40
+	74.09	CTH or QVC 40
+	74.10	CTH or QVC 40
+	74.11	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	74.12	CTH or QVC 40
+	74.13	7413.00	CTH or QVC 40
+	74.15	CTH or QVC 40
+	74.18	CTH or QVC 40
+	74.19	CTH or QVC 40
+Chapter 75	75.01	CTSH or QVC 40
+	75.02	CTSH or QVC 40
+	75.03	7503.00	WO
+	75.04	7504.00	CTH or QVC 40
+	75.05	CTSH or QVC 40
+	75.06	CTSH or QVC 40
+	75.07	CTSH or QVC 40
+	75.08	CTSH or QVC 40
+Chapter 76	76.01	CTSH or QVC 40
+	76.02	7602.00	WO
+	76.03	CTH or QVC 40
+	76.04	CTH or QVC 40
+	76.05	CTH or QVC 40
+	76.06	CTH or QVC 40
+	76.07	CTH or QVC 40
+	76.08	CTH or QVC 40
+	76.09	7609.00	CTH or QVC 40
+	76.10	CTH or QVC 40
+	76.11	7611.00	CTH or QVC 40
+	76.12	CTH or QVC 40
+	76.13	7613.00	CTH or QVC 40
+	76.14	CTH or QVC 40
+	76.15	CTH or QVC 40
+	76.16	CTH or QVC 40
+Chapter 78	78.01	CTH or QVC 40
+	78.02	7802.00	WO
+	78.04	CTH or QVC 40
+	78.06	7806.00	CTH or QVC 40
+Chapter 79	79.01	CTH or QVC 40
+	79.02	7902.00	WO
+	79.03	CTH or QVC 40
+	79.04	7904.00	CTH or QVC 40
+	79.05	7905.00	CTH or QVC 40
+	79.07	7907.00	CTH or QVC 40
+Chapter 80	80.01	CTH or QVC 40
+	80.02	8002.00	WO
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	80.03	8003.00	CTH or QVC 40
+	80.07	8007.00	CTH or QVC 40
+Chapter 81	81.01	8101.10	CTH or QVC 40
+		8101.94	CTH or QVC 40
+		8101.96	CTH or QVC 40
+		8101.97	WO
+		8101.99	CTH or QVC 40
+	81.02	8102.10	CTH or QVC 40
+		8102.94	CTH or QVC 40
+		8102.95	CTH or QVC 40
+		8102.96	CTH or QVC 40
+		8102.97	WO
+		8102.99	CTH or QVC 40
+	81.03	8103.20	CTH or QVC 40
+		8103.30	WO
+		8103.90	CTH or QVC 40
+	81.04	8104.11	CTH or QVC 40
+		8104.19	CTH or QVC 40
+		8104.20	WO
+		8104.30	CTH or QVC 40
+		8104.90	CTH or QVC 40
+	81.05	8105.20	CC
+		8105.30	WO
+		8105.90	CTH or QVC 40
+	81.06	8106.00	CC
+	81.07	8107.20	CTH or QVC 40
+		8107.30	WO
+		8107.90	CTH or QVC 40
+	81.08	8108.20	CTH or QVC 40
+		8108.30	WO
+		8108.90	CTH or QVC 40
+	81.09	8109.20	CTH or QVC 40
+		8109.30	WO
+		8109.90	CTH or QVC 40
+	81.10	8110.10	CC
+		8110.20	WO
+		8110.90	CTH or QVC 40
+	81.11	8111.00	CC
+	81.12	8112.12	CC
+		8112.13	WO
+		8112.19	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8112.21	CTH or QVC 40
+		8112.22	WO
+		8112.29	CTH or QVC 40
+		8112.51	CTH or QVC 40
+		8112.52	WO
+		8112.59	CTH or QVC 40
+		8112.92	CTSH
+		8112.99	CTSH or QVC 40
+	81.13	8113.00	CTH or QVC 40
+Chapter 82	CTH or QVC 40
+Chapter 83	CTH or QVC 40
+Section XVI
+Chapter 84	84.01	8401.10	CTSH or QVC 40
+		8401.20	CTSH or QVC 40
+		8401.30	CTSH or QVC 40
+		8401.40	CTH or QVC 40
+	84.02	8402.11	CTSH or QVC 40
+		8402.12	CTSH or QVC 40
+		8402.19	CTSH or QVC 40
+		8402.20	CTSH or QVC 40
+		8402.90	CTH or QVC 40
+	84.03	8403.10	CTSH or QVC 40
+		8403.90	CTH or QVC 40
+	84.04	8404.10	CTSH or QVC 40
+		8404.20	CTSH or QVC 40
+		8404.90	CTH or QVC 40
+	84.05	8405.10	CTSH or QVC 40
+		8405.90	CTH or QVC 40
+	84.06	8406.10	CTSH or QVC 40
+		8406.81	CTSH or QVC 40
+		8406.82	CTSH or QVC 40
+		8406.90	CTH or QVC 40
+	84.07	CTH or QVC 40
+	84.08	CTH or QVC 40
+	84.09	CTH or QVC 40
+	84.10	8410.11	CTSH or QVC 40
+		8410.12	CTSH or QVC 40
+		8410.13	CTSH or QVC 40
+		8410.90	CTH or QVC 40
+	84.11	8411.11	CTSH or QVC 40
+		8411.12	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8411.21	CTSH or QVC 40
+		8411.22	CTSH or QVC 40
+		8411.81	CTSH or QVC 40
+		8411.82	CTSH or QVC 40
+		8411.91	CTH or QVC 40
+		8411.99	CTH or QVC 40
+	84.12	8412.10	CTSH or QVC 40
+		8412.21	CTSH or QVC 40
+		8412.29	CTSH or QVC 40
+		8412.31	CTSH or QVC 40
+		8412.39	CTSH or QVC 40
+		8412.80	CTSH or QVC 40
+		8412.90	CTH or QVC 40
+	84.13	8413.11	CTSH or QVC 40
+		8413.19	CTSH or QVC 40
+		8413.20	CTSH or QVC 40
+		8413.30	CTSH or QVC 40
+		8413.40	CTSH or QVC 40
+		8413.50	CTSH or QVC 40
+		8413.60	CTSH or QVC 40
+		8413.70	CTSH or QVC 40
+		8413.81	CTSH or QVC 40
+		8413.82	CTSH or QVC 40
+		8413.91	CTH or QVC 40
+		8413.92	CTH or QVC 40
+	84.14	8414.10	CTSH or QVC 40
+		8414.20	CTSH or QVC 40
+		8414.30	CTSH or QVC 40
+		8414.40	CTSH or QVC 40
+		8414.51	CTSH or QVC 40
+		8414.59	CTSH or QVC 40
+		8414.60	CTSH or QVC 40
+		8414.80	CTSH or QVC 40
+		8414.90	CTH or QVC 40
+	84.15	8415.10	CTSH or QVC 40
+		8415.20	CTSH or QVC 40
+		8415.81	CTSH or QVC 40
+		8415.82	CTSH or QVC 40
+		8415.83	CTSH or QVC 40
+		8415.90	CTH or QVC 40
+	84.16	8416.10	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8416.20	CTSH or QVC 40
+		8416.30	CTSH or QVC 40
+		8416.90	CTH or QVC 40
+	84.17	8417.10	CTSH or QVC 40
+		8417.20	CTSH or QVC 40
+		8417.80	CTSH or QVC 40
+		8417.90	CTH or QVC 40
+	84.18	8418.10	CTSH or QVC 40
+		8418.21	CTSH or QVC 40
+		8418.29	CTSH or QVC 40
+		8418.30	CTSH or QVC 40
+		8418.40	CTSH or QVC 40
+		8418.50	CTSH or QVC 40
+		8418.61	CTSH or QVC 40
+		8418.69	CTSH or QVC 40
+		8418.91	CTH or QVC 40
+		8418.99	CTH or QVC 40
+	84.19	8419.11	CTSH or QVC 40
+		8419.19	CTSH or QVC 40
+		8419.20	CTSH or QVC 40
+		8419.31	CTSH or QVC 40
+		8419.32	CTSH or QVC 40
+		8419.39	CTSH or QVC 40
+		8419.40	CTSH or QVC 40
+		8419.50	CTSH or QVC 40
+		8419.60	CTSH or QVC 40
+		8419.81	CTSH or QVC 40
+		8419.89	CTSH or QVC 40
+		8419.90	CTH or QVC 40
+	84.20	8420.10	CTSH or QVC 40
+		8420.91	CTH or QVC 40
+		8420.99	CTH or QVC 40
+	84.21	8421.11	CTSH or QVC 40
+		8421.12	CTSH or QVC 40
+		8421.19	CTSH or QVC 40
+		8421.21	CTSH or QVC 40
+		8421.22	CTSH or QVC 40
+		8421.23	CTSH or QVC 40
+		8421.29	CTSH or QVC 40
+		8421.31	CTSH or QVC 40
+		8421.39	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8421.91	CTH or QVC 40
+		8421.99	CTH or QVC 40
+	84.22	8422.11	CTSH or QVC 40
+		8422.19	CTSH or QVC 40
+		8422.20	CTSH or QVC 40
+		8422.30	CTSH or QVC 40
+		8422.40	CTSH or QVC 40
+		8422.90	CTH or QVC 40
+	84.23	8423.10	CTSH or QVC 40
+		8423.20	CTSH or QVC 40
+		8423.30	CTSH or QVC 40
+		8423.81	CTSH or QVC 40
+		8423.82	CTSH or QVC 40
+		8423.89	CTSH or QVC 40
+		8423.90	CTH or QVC 40
+	84.24	8424.10	CTSH or QVC 40
+		8424.20	CTSH or QVC 40
+		8424.30	CTSH or QVC 40
+		8424.81	CTSH or QVC 40
+		8424.89	CTSH or QVC 40
+		8424.90	CTH or QVC 40
+	84.25	CTSH or QVC 40
+	84.26	CTSH or QVC 40
+	84.27	CTSH or QVC 40
+	84.28	CTSH or QVC 40
+	84.29	CTSH or QVC 40
+	84.30	CTSH or QVC 40
+	84.31	CTH or QVC 40
+	84.32	8432.10	CTSH or QVC 40
+		8432.21	CTSH or QVC 40
+		8432.29	CTSH or QVC 40
+		8432.30	CTSH or QVC 40
+		8432.40	CTSH or QVC 40
+		8432.80	CTSH or QVC 40
+		8432.90	CTH or QVC 40
+	84.33	8433.11	CTSH or QVC 40
+		8433.19	CTSH or QVC 40
+		8433.20	CTSH or QVC 40
+		8433.30	CTSH or QVC 40
+		8433.40	CTSH or QVC 40
+		8433.51	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8433.52	CTSH or QVC 40
+		8433.53	CTSH or QVC 40
+		8433.59	CTSH or QVC 40
+		8433.60	CTSH or QVC 40
+		8433.90	CTH or QVC 40
+	84.34	8434.10	CTSH or QVC 40
+		8434.20	CTSH or QVC 40
+		8434.90	CTH or QVC 40
+	84.35	8435.10	CTSH or QVC 40
+		8435.90	CTH or QVC 40
+	84.36	8436.10	CTSH or QVC 40
+		8436.21	CTSH or QVC 40
+		8436.29	CTSH or QVC 40
+		8436.80	CTSH or QVC 40
+		8436.91	CTH or QVC 40
+		8436.99	CTH or QVC 40
+	84.37	8437.10	CTSH or QVC 40
+		8437.80	CTSH or QVC 40
+		8437.90	CTH or QVC 40
+	84.38	8438.10	CTSH or QVC 40
+		8438.20	CTSH or QVC 40
+		8438.30	CTSH or QVC 40
+		8438.40	CTSH or QVC 40
+		8438.50	CTSH or QVC 40
+		8438.60	CTSH or QVC 40
+		8438.80	CTSH or QVC 40
+		8438.90	CTH or QVC 40
+	84.39	8439.10	CTSH or QVC 40
+		8439.20	CTSH or QVC 40
+		8439.30	CTSH or QVC 40
+		8439.91	CTH or QVC 40
+		8439.99	CTH or QVC 40
+	84.40	8440.10	CTSH or QVC 40
+		8440.90	CTH or QVC 40
+	84.41	8441.10	CTSH or QVC 40
+		8441.20	CTSH or QVC 40
+		8441.30	CTSH or QVC 40
+		8441.40	CTSH or QVC 40
+		8441.80	CTSH or QVC 40
+		8441.90	CTH or QVC 40
+	84.42	8442.30	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8442.40	CTH or QVC 40
+		8442.50	CTH or QVC 40
+	84.43	8443.11	CTSH or QVC 40
+		8443.12	CTSH or QVC 40
+		8443.13	CTSH or QVC 40
+		8443.14	CTSH or QVC 40
+		8443.15	CTSH or QVC 40
+		8443.16	CTSH or QVC 40
+		8443.17	CTSH or QVC 40
+		8443.19	CTSH or QVC 40
+		8443.31	CTSH or QVC 40
+		8443.32	CTSH or QVC 40
+		8443.39	CTSH or QVC 40
+		8443.91	CTH or QVC 40
+		8443.99	CTH or QVC 40
+	84.44	8444.00	CTH or QVC 40
+	84.45	CTH or QVC 40
+	84.46	CTH or QVC 40
+	84.47	CTH or QVC 40
+	84.48	8448.11	CTSH or QVC 40
+		8448.19	CTSH or QVC 40
+		8448.20	CTH or QVC 40
+		8448.31	CTH or QVC 40
+		8448.32	CTH or QVC 40
+		8448.33	CTH or QVC 40
+		8448.39	CTH or QVC 40
+		8448.42	CTH or QVC 40
+		8448.49	CTH or QVC 40
+		8448.51	CTH or QVC 40
+		8448.59	CTH or QVC 40
+	84.49	8449.00	CTH or QVC 40
+	84.50	8450.11	CTSH or QVC 40
+		8450.12	CTSH or QVC 40
+		8450.19	CTSH or QVC 40
+		8450.20	CTSH or QVC 40
+		8450.90	CTH or QVC 40
+	84.51	8451.10	CTSH or QVC 40
+		8451.21	CTSH or QVC 40
+		8451.29	CTSH or QVC 40
+		8451.30	CTSH or QVC 40
+		8451.40	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8451.50	CTSH or QVC 40
+		8451.80	CTSH or QVC 40
+		8451.90	CTH or QVC 40
+	84.52	8452.10	CTSH or QVC 40
+		8452.21	CTSH or QVC 40
+		8452.29	CTSH or QVC 40
+		8452.30	CTSH or QVC 40
+		8452.90	CTH or QVC 40
+	84.53	8453.10	CTSH or QVC 40
+		8453.20	CTSH or QVC 40
+		8453.80	CTSH or QVC 40
+		8453.90	CTH or QVC 40
+	84.54	8454.10	CTSH or QVC 40
+		8454.20	CTSH or QVC 40
+		8454.30	CTSH or QVC 40
+		8454.90	CTH or QVC 40
+	84.55	8455.10	CTSH or QVC 40
+		8455.21	CTSH or QVC 40
+		8455.22	CTSH or QVC 40
+		8455.30	CTSH or QVC 40
+		8455.90	CTH or QVC 40
+	84.56	CTH or QVC 40
+	84.57	CTH or QVC 40
+	84.58	CTH or QVC 40
+	84.59	CTH or QVC 40
+	84.60	CTH or QVC 40
+	84.61	CTH or QVC 40
+	84.62	CTH or QVC 40
+	84.63	CTH or QVC 40
+	84.64	CTH or QVC 40
+	84.65	CTH or QVC 40
+	84.66	CTH or QVC 40
+	84.67	8467.11	CTSH or QVC 40
+		8467.19	CTSH or QVC 40
+		8467.21	CTSH or QVC 40
+		8467.22	CTSH or QVC 40
+		8467.29	CTSH or QVC 40
+		8467.81	CTSH or QVC 40
+		8467.89	CTSH or QVC 40
+		8467.91	CTH or QVC 40
+		8467.92	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8467.99	CTH or QVC 40
+	84.68	8468.10	CTSH or QVC 40
+		8468.20	CTSH or QVC 40
+		8468.80	CTSH or QVC 40
+		8468.90	CTH or QVC 40
+	84.69	8469.00	CTH or QVC 40
+	84.70	CTH or QVC 40
+	84.71	CTH or QVC 40
+	84.72	CTH or QVC 40
+	84.73	CTH or QVC 40
+	84.74	8474.10	CTSH or QVC 40
+		8474.20	CTSH or QVC 40
+		8474.31	CTSH or QVC 40
+		8474.32	CTSH or QVC 40
+		8474.39	CTSH or QVC 40
+		8474.80	CTSH or QVC 40
+		8474.90	CTH or QVC 40
+	84.75	8475.10	CTSH or QVC 40
+		8475.21	CTSH or QVC 40
+		8475.29	CTSH or QVC 40
+		8475.90	CTH or QVC 40
+	84.76	8476.21	CTSH or QVC 40
+		8476.29	CTSH or QVC 40
+		8476.81	CTSH or QVC 40
+		8476.89	CTSH or QVC 40
+		8476.90	CTH or QVC 40
+	84.77	8477.10	CTSH or QVC 40
+		8477.20	CTSH or QVC 40
+		8477.30	CTSH or QVC 40
+		8477.40	CTSH or QVC 40
+		8477.51	CTSH or QVC 40
+		8477.59	CTSH or QVC 40
+		8477.80	CTSH or QVC 40
+		8477.90	CTH or QVC 40
+	84.78	8478.10	CTSH or QVC 40
+		8478.90	CTH or QVC 40
+	84.79	8479.10	CTSH or QVC 40
+		8479.20	CTSH or QVC 40
+		8479.30	CTSH or QVC 40
+		8479.40	CTSH or QVC 40
+		8479.50	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8479.60	CTSH or QVC 40
+		8479.71	CTSH or QVC 40
+		8479.79	CTSH or QVC 40
+		8479.81	CTSH or QVC 40
+		8479.82	CTSH or QVC 40
+		8479.89	CTSH or QVC 40
+		8479.90	CTH or QVC 40
+	84.80	CTH or QVC 40
+	84.81	8481.10	CTSH or QVC 40
+		8481.20	CTSH or QVC 40
+		8481.30	CTSH or QVC 40
+		8481.40	CTSH or QVC 40
+		8481.80	CTSH or QVC 40
+		8481.90	CTH or QVC 40
+	84.82	8482.10	CTSH or QVC 40
+		8482.20	CTSH or QVC 40
+		8482.30	CTSH or QVC 40
+		8482.40	CTSH or QVC 40
+		8482.50	CTSH or QVC 40
+		8482.80	CTSH or QVC 40
+		8482.91	CTH or QVC 40
+		8482.99	CTH or QVC 40
+	84.83	8483.10	CTSH or QVC 40
+		8483.20	CTSH or QVC 40
+		8483.30	CTSH or QVC 40
+		8483.40	CTSH or QVC 40
+		8483.50	CTSH or QVC 40
+		8483.60	CTSH or QVC 40
+		8483.90	CTH or QVC 40
+	84.84	CC or QVC 40
+	84.86	8486.10	CTSH or QVC 40
+		8486.20	CTSH or QVC 40
+		8486.30	CTSH or QVC 40
+		8486.40	CTSH or QVC 40
+		8486.90	CTH or QVC 40
+	84.87	CTH or QVC 40
+Chapter 85	85.01	CTH or QVC 40
+	85.02	CTH or QVC 40
+	85.03	8503.00	CTH or QVC 40
+	85.04	8504.10	CTSH or QVC 40
+		8504.21	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8504.22	CTSH or QVC 40
+		8504.23	CTSH or QVC 40
+		8504.31	CTSH or QVC 40
+		8504.32	CTSH or QVC 40
+		8504.33	CTSH or QVC 40
+		8504.34	CTSH or QVC 40
+		8504.40	CTSH or QVC 40
+		8504.50	CTSH or QVC 40
+		8504.90	CTH or QVC 40
+	85.05	8505.11	CTSH or QVC 40
+		8505.19	CTSH or QVC 40
+		8505.20	CTSH or QVC 40
+		8505.90	CTH or QVC 40
+	85.06	8506.10	CTSH or QVC 40
+		8506.30	CTSH or QVC 40
+		8506.40	CTSH or QVC 40
+		8506.50	CTSH or QVC 40
+		8506.60	CTSH or QVC 40
+		8506.80	CTSH or QVC 40
+		8506.90	CTH or QVC 40
+	85.07	8507.10	CTSH or QVC 40
+		8507.20	CTSH or QVC 40
+		8507.30	CTSH or QVC 40
+		8507.40	CTSH or QVC 40
+		8507.50	CTSH or QVC 40
+		8507.60	CTSH or QVC 40
+		8507.80	CTSH or QVC 40
+		8507.90	CTH or QVC 40
+	85.08	8508.11	CTSH or QVC 40
+		8508.19	CTSH or QVC 40
+		8508.60	CTSH or QVC 40
+		8508.70	CTH or QVC 40
+	85.09	8509.40	CTSH or QVC 40
+		8509.80	CTSH or QVC 40
+		8509.90	CTH or QVC 40
+	85.10	8510.10	CTSH or QVC 40
+		8510.20	CTSH or QVC 40
+		8510.30	CTSH or QVC 40
+		8510.90	CTH or QVC 40
+	85.11	8511.10	CTSH or QVC 40
+		8511.20	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8511.30	CTSH or QVC 40
+		8511.40	CTSH or QVC 40
+		8511.50	CTSH or QVC 40
+		8511.80	CTSH or QVC 40
+		8511.90	CTH or QVC 40
+	85.12	8512.10	CTSH or QVC 40
+		8512.20	CTSH or QVC 40
+		8512.30	CTSH or QVC 40
+		8512.40	CTSH or QVC 40
+		8512.90	CTH or QVC 40
+	85.13	8513.10	CTSH or QVC 40
+		8513.90	CTH or QVC 40
+	85.14	8514.10	CTSH or QVC 40
+		8514.20	CTSH or QVC 40
+		8514.30	CTSH or QVC 40
+		8514.40	CTSH or QVC 40
+		8514.90	CTH or QVC 40
+	85.15	8515.11	CTSH or QVC 40
+		8515.19	CTSH or QVC 40
+		8515.21	CTSH or QVC 40
+		8515.29	CTSH or QVC 40
+		8515.31	CTSH or QVC 40
+		8515.39	CTSH or QVC 40
+		8515.80	CTSH or QVC 40
+		8515.90	CTH or QVC 40
+	85.16	8516.10	CTSH or QVC 40
+		8516.21	CTSH or QVC 40
+		8516.29	CTSH or QVC 40
+		8516.31	CTSH or QVC 40
+		8516.32	CTSH or QVC 40
+		8516.33	CTSH or QVC 40
+		8516.40	CTSH or QVC 40
+		8516.50	CTSH or QVC 40
+		8516.60	CTSH or QVC 40
+		8516.71	CTSH or QVC 40
+		8516.72	CTSH or QVC 40
+		8516.79	CTSH or QVC 40
+		8516.80	CTSH or QVC 40
+		8516.90	CTH or QVC 40
+	85.17	8517.11	CTSH or QVC 40
+		8517.12	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8517.18	CTSH or QVC 40
+		8517.61	CTSH or QVC 40
+		8517.62	CTSH or QVC 40
+		8517.69	CTSH or QVC 40
+		8517.70	CTH or QVC 40
+	85.18	8518.10	CTSH or QVC 40
+		8518.21	CTSH or QVC 40
+		8518.22	CTSH or QVC 40
+		8518.29	CTSH or QVC 40
+		8518.30	CTSH or QVC 40
+		8518.40	CTSH or QVC 40
+		8518.50	CTSH or QVC 40
+		8518.90	CTH or QVC 40
+	85.19	CTH or QVC 40
+	85.21	CTH or QVC 40
+	85.22	CTH or QVC 40
+	85.23	8523.21	CTH or QVC 40
+		8523.29	CTH or QVC 40
+		8523.41	CTH or QVC 40
+		8523.49	CTH or QVC 40
+		8523.51	CTH except from heading 85.42, or QVC 40
+		8523.52	CTH except from heading 85.42, or QVC 40
+		8523.59	CTH except from heading 85.42, or QVC 40
+		8523.80	CTH or QVC 40
+	85.25	CTH or QVC 40
+	85.26	CTH or QVC 40
+	85.27	CTH or QVC 40
+	85.28	CTH or QVC 40
+	85.29	CTH or QVC 40
+	85.30	8530.10	CTSH or QVC 40
+		8530.80	CTSH or QVC 40
+		8530.90	CTH or QVC 40
+	85.31	8531.10	CTSH or QVC 40
+		8531.20	CTSH or QVC 40
+		8531.80	CTSH or QVC 40
+		8531.90	CTH or QVC 40
+	85.32	8532.10	CTSH or QVC 40
+		8532.21	CTSH or QVC 40
+		8532.22	CTSH or QVC 40
+		8532.23	CTSH or QVC 40
+		8532.24	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8532.25	CTSH or QVC 40
+		8532.29	CTSH or QVC 40
+		8532.30	CTSH or QVC 40
+		8532.90	CTH or QVC 40
+	85.33	8533.10	CTSH or QVC 40
+		8533.21	CTSH or QVC 40
+		8533.29	CTSH or QVC 40
+		8533.31	CTSH or QVC 40
+		8533.39	CTSH or QVC 40
+		8533.40	CTSH or QVC 40
+		8533.90	CTH or QVC 40
+	85.34	8534.00	CTH or QVC 40
+	85.35	CTH or QVC 40
+	85.36	CTH or QVC 40
+	85.37	CTH or QVC 40
+	85.38	CTH or QVC 40
+	85.39	8539.10	CTSH or QVC 40
+		8539.21	CTSH or QVC 40
+		8539.22	CTSH or QVC 40
+		8539.29	CTSH or QVC 40
+		8539.31	CTSH or QVC 40
+		8539.32	CTSH or QVC 40
+		8539.39	CTSH or QVC 40
+		8539.41	CTSH or QVC 40
+		8539.49	CTSH or QVC 40
+		8539.90	CTH or QVC 40
+	85.40	8540.11	CTSH or QVC 40
+		8540.12	CTSH or QVC 40
+		8540.20	CTSH or QVC 40
+		8540.40	CTSH or QVC 40
+		8540.60	CTSH or QVC 40
+		8540.71	CTSH or QVC 40
+		8540.79	CTSH or QVC 40
+		8540.81	CTSH or QVC 40
+		8540.89	CTSH or QVC 40
+		8540.91	CTH or QVC 40
+		8540.99	CTH or QVC 40
+	85.41	8541.10	CTSH or QVC 40
+		8541.21	CTSH or QVC 40
+		8541.29	CTSH or QVC 40
+		8541.30	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		8541.40	CTSH or QVC 40
+		8541.50	CTSH or QVC 40
+		8541.60	CTSH or QVC 40
+		8541.90	CTH or QVC 40
+	85.42	8542.31	CTSH except from subheadings 8542.32 through 8542.39, or QVC 40
+		8542.32	CTSH except from subheading 8542.31, 8542.33 or 8542.39, or QVC 40
+		8542.33	CTSH except from subheading 8542.31, 8542.32 or 8542.39, or QVC 40
+		8542.39	CTSH except from subheadings 8542.31 through 8542.33, or QVC 40
+		8542.90	CTH or QVC 40
+	85.43	8543.10	CTSH or QVC 40
+		8543.20	CTSH or QVC 40
+		8543.30	CTSH or QVC 40
+		8543.70	CTSH or QVC 40
+		8543.90	CTH or QVC 40
+	85.44	CTH or QVC 40
+	85.45	CTH or QVC 40
+	85.46	CTH or QVC 40
+	85.47	CTH or QVC 40
+	85.48	8548.10	WO
+		8548.90	CTH or QVC 40
+Section XVII
+Chapter 86	CTH or QVC 40
+Chapter 87	87.01	CTH or QVC 40
+	87.02	CTH or QVC 40
+	87.03	CTH or QVC 40
+	87.04	CTH or QVC 40
+	87.05	CTH or QVC 40
+	87.06	8706.00	CTH or QVC 40
+	87.07	CTH or QVC 40
+	87.08	CTSH or QVC 40
+	87.09	CTH or QVC 40
+	87.10	8710.00	CTH or QVC 40
+	87.11	CTH or QVC 40
+	87.12	8712.00	CTH or QVC 40
+	87.13	CTH or QVC 40
+	87.14	CTH or QVC 40
+	87.15	8715.00	CTH or QVC 40
+	87.16	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+Chapter 88	CTH or QVC 40
+Chapter 89	CTH or QVC 40
+Section XVIII
+Chapter 90	90.01	CTH or QVC 40
+	90.02	CTH or QVC 40
+	90.03	9003.11	CTSH or QVC 40
+		9003.19	CTSH or QVC 40
+		9003.90	CTH or QVC 40
+	90.04	CTH or QVC 40
+	90.05	9005.10	CTSH or QVC 40
+		9005.80	CTSH or QVC 40
+		9005.90	CTH or QVC 40
+	90.06	9006.10	CTSH or QVC 40
+		9006.30	CTSH or QVC 40
+		9006.40	CTSH or QVC 40
+		9006.51	CTSH or QVC 40
+		9006.52	CTSH or QVC 40
+		9006.53	CTSH or QVC 40
+		9006.59	CTSH or QVC 40
+		9006.61	CTSH or QVC 40
+		9006.69	CTSH or QVC 40
+		9006.91	CTH or QVC 40
+		9006.99	CTH or QVC 40
+	90.07	9007.10	CTSH or QVC 40
+		9007.20	CTSH or QVC 40
+		9007.91	CTH or QVC 40
+		9007.92	CTH or QVC 40
+	90.08	9008.50	CTSH or QVC 40
+		9008.90	CTH or QVC 40
+	90.10	9010.10	CTSH or QVC 40
+		9010.50	CTSH or QVC 40
+		9010.60	CTSH or QVC 40
+		9010.90	CTH or QVC 40
+	90.11	9011.10	CTSH or QVC 40
+		9011.20	CTSH or QVC 40
+		9011.80	CTSH or QVC 40
+		9011.90	CTH or QVC 40
+	90.12	9012.10	CTSH or QVC 40
+		9012.90	CTH or QVC 40
+	90.13	9013.10	CTSH or QVC 40
+		9013.20	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		9013.80	CTSH or QVC 40
+		9013.90	CTH or QVC 40
+	90.14	9014.10	CTSH or QVC 40
+		9014.20	CTSH or QVC 40
+		9014.80	CTSH or QVC 40
+		9014.90	CTH or QVC 40
+	90.15	9015.10	CTSH or QVC 40
+		9015.20	CTSH or QVC 40
+		9015.30	CTSH or QVC 40
+		9015.40	CTSH or QVC 40
+		9015.80	CTSH or QVC 40
+		9015.90	CTH or QVC 40
+	90.16	9016.00	CTH or QVC 40
+	90.17	9017.10	CTSH or QVC 40
+		9017.20	CTSH or QVC 40
+		9017.30	CTSH or QVC 40
+		9017.80	CTSH or QVC 40
+		9017.90	CTH or QVC 40
+	90.18	CTH or QVC 40
+	90.19	CTH or QVC 40
+	90.20	9020.00	CTH or QVC 40
+	90.21	CTH or QVC 40
+	90.22	9022.12	CTSH or QVC 40
+		9022.13	CTSH or QVC 40
+		9022.14	CTSH or QVC 40
+		9022.19	CTSH or QVC 40
+		9022.21	CTSH or QVC 40
+		9022.29	CTSH or QVC 40
+		9022.30	CTSH or QVC 40
+		9022.90	CTH or QVC 40
+	90.23	9023.00	CTH or QVC 40
+	90.24	9024.10	CTSH or QVC 40
+		9024.80	CTSH or QVC 40
+		9024.90	CTH or QVC 40
+	90.25	9025.11	CTSH or QVC 40
+		9025.19	CTSH or QVC 40
+		9025.80	CTSH or QVC 40
+		9025.90	CTH or QVC 40
+	90.26	9026.10	CTSH or QVC 40
+		9026.20	CTSH or QVC 40
+		9026.80	CTSH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+		9026.90	CTH or QVC 40
+	90.27	9027.10	CTSH or QVC 40
+		9027.20	CTSH or QVC 40
+		9027.30	CTSH or QVC 40
+		9027.50	CTSH or QVC 40
+		9027.80	CTSH or QVC 40
+		9027.90	CTH or QVC 40
+	90.28	9028.10	CTSH or QVC 40
+		9028.20	CTSH or QVC 40
+		9028.30	CTSH or QVC 40
+		9028.90	CTH or QVC 40
+	90.29	9029.10	CTSH or QVC 40
+		9029.20	CTSH or QVC 40
+		9029.90	CTH or QVC 40
+	90.30	9030.10	CTSH or QVC 40
+		9030.20	CTSH or QVC 40
+		9030.31	CTSH or QVC 40
+		9030.32	CTSH or QVC 40
+		9030.33	CTSH or QVC 40
+		9030.39	CTSH or QVC 40
+		9030.40	CTSH or QVC 40
+		9030.82	CTSH or QVC 40
+		9030.84	CTSH or QVC 40
+		9030.89	CTSH or QVC 40
+		9030.90	CTH or QVC 40
+	90.31	9031.10	CTSH or QVC 40
+		9031.20	CTSH or QVC 40
+		9031.41	CTSH or QVC 40
+		9031.49	CTSH or QVC 40
+		9031.80	CTSH or QVC 40
+		9031.90	CTH or QVC 40
+	90.32	9032.10	CTSH or QVC 40
+		9032.20	CTSH or QVC 40
+		9032.81	CTSH or QVC 40
+		9032.89	CTSH or QVC 40
+		9032.90	CTH or QVC 40
+	90.33	9033.00	CTH or QVC 40
+Chapter 91	91.01	CTH or QVC 40
+	91.02	CTH or QVC 40
+	91.03	CTH or QVC 40
+	91.04	9104.00	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	91.05	CTH or QVC 40
+	91.06	CTH or QVC 40
+	91.07	9107.00	CTH or QVC 40
+	91.08	CTH or QVC 40
+	91.09	CTH or QVC 40
+	91.10	CTH or QVC 40
+	91.11	CTH or QVC 40
+	91.12	CTH or QVC 40
+	91.13	9113.10	CTH or QVC 40
+		9113.20	CTH or QVC 40
+		9113.90	CC
+	91.14	CTH or QVC 40
+Chapter 92	CTH or QVC 40
+Section XIX
+Chapter 93	CTH or QVC 40
+Section XX
+Chapter 94	94.01	9401.10	CTH or QVC 40
+		9401.20	CTH or QVC 40
+		9401.30	CTH or QVC 40
+		9401.40	CTH or QVC 40
+		9401.51	CTH or QVC 40
+		9401.59	CTH or QVC 40
+		9401.61	CTH or QVC 40
+		9401.69	CTH or QVC 40
+		9401.71	CTH or QVC 40
+		9401.79	CTH or QVC 40
+		9401.80	CTH or QVC 40
+		9401.90	CC
+	94.02	CTH or QVC 40
+	94.03	CTH or QVC 40
+	94.04	9404.10	CTH or QVC 40
+		9404.21	CC
+		9404.29	CC
+		9404.30	CTH or QVC 40
+		9404.90	CC
+	94.05	CTH or QVC 40
+	94.06	9406.00	CTH or QVC 40
+Chapter 95	CTH or QVC 40
+Chapter 96	96.01	CC
+	96.02	9602.00	CTH or QVC 40
+	96.03	CTH or QVC 40
+ 
+
+
+
+Tariff Item Number	Product Specific Rules
+	96.04	9604.00	CTH or QVC 40
+	96.05	9605.00	CC
+	96.06	CTH or QVC 40
+	96.07	CTH or QVC 40
+	96.08	CTH or QVC 40
+	96.09	CTH or QVC 40
+	96.10	9610.00	CTH or QVC 40
+	96.11	9611.00	CTH or QVC 40
+	96.12	CTH or QVC 40
+	96.13	CTH or QVC 40
+	96.14	9614.00	CTH or QVC 40
+	96.15	CTH or QVC 40
+	96.16	CTH or QVC 40
+	96.17	9617.00	CTH or QVC 40
+	96.18	9618.00	CTH or QVC 40
+	96.19	9619.00	CTH or QVC 40
+Section XXI
+Chapter 97	CTH or QVC 40
+
+
+Notes to Section XI (Chapters 50-63):
+
+1.	For the purposes of Chapters 50 through 55 and 60, dyeing or printing process shall be accompanied by two or more of the following operations:
+
+(1)	antibacterial finish;
+(2)	antimelt finish;
+(3)	antimosquito finish;
+(4)	anti-pilling finish;
+(5)	antistatic finish;
+(6)	artificial creasing;
+(7)	bleaching;
+(8)	brushing;
+(9)	buff finish;
+(10)	burn-out finish;
+(11)	calendering;
+(12)	compressive shrinkage;
+(13)	crease resistant finish;
+(14)	decatising;
+(15)	deodorant finish;
+(16)	easy-care finish;
+(17)	embossing;
+(18)	emerising;
+ 
+
+
+(19)	flame resistant finish;
+(20)	flock finish;
+(21)	foam printing;
+(22)	liquid ammonia process;
+(23)	mercerization;
+(24)	microbial control finish;
+(25)	milling;
+(26)	moare finish;
+(27)	moisture permeable waterproofing;
+(28)	oil-repellent finish;
+(29)	organdie finish;
+(30)	peeling treatment;
+(31)	perfumed finish;
+(32)	relaxation;
+(33)	ripple finish;
+(34)	schreiner finish;
+(35)	shearing;
+(36)	shrink resistant finish;
+(37)	soil guard finish;
+(38)	soil release finish;
+(39)	stretch finish;
+(40)	tick-proofing;
+(41)	UV cut finish;
+(42)	wash and wear finish;
+(43)	water absorbent finish;
+(44)	waterproofing;
+(45)	water-repellent finish;
+(46)	wet decatising;
+(47)	windbreak finish; or
+(48)	wire raising.
+
+2.	In determining the origin of a good classified under Chapters 61 through 63, materials used in the production of the good which are not classified under Chapters 50 through
+63 shall be disregarded whether or not they contain textiles.
+ 
+
+
+Appendix to Annex 2
+
+Product Specific Rules for Textile and Textile Goods (Chapters 50-63)
+
+
+A.	Yarn
+
+
+HS Code	Necessary processes to obtain originating status in a Party
+	Carding/Combing process	Spinning process
+50.05-50.06
+51.06-51.10	
+( N / A )	
+Required
+
+52.04-52.07	
+Required	
+Required
+53.06-53.08
+54.01-54.06	
+( N / A )	
+Required
+
+55.08-55.11	
+Required	
+Required
+
+B.	Woven Fabrics
+
+
+
+HS Code	Necessary processes to obtain	originating status in a Party
+	
+Spinning process	Dyeing/Printing process to yarn*	
+Weaving process	Dyeing/Printing process to fabrics*
+
+50.07	
+Required		
+Required	
+51.11-51.13				
+		
+Required	
+Required	
+52.08-52.12				
+53.09-53.11				
+54.07-54.08			
+Required	
+Required
+				
+55.12-55.16				
+* “Dyeing/Printing” process shall be accompanied by two or more of the operations referred to in Notes to Section XI (Chapters 50-63).
+ 
+
+
+C.	Textile Articles for Industrial Use, etc. (HS 56-59)
+
+
+
+HS Code	Necessary processes to obtain originating status in a Party
+	
+Spinning process	Knitting/Crocheting/Weaving
+/Making up process
+
+56.01-56.03	
+( N / A )	
+Required
+
+56.04-56.09	
+Required	
+Required
+
+57.01-57.02	
+Required	
+Required
+
+57.03-57.05	
+( N / A )	
+Required
+
+58.01-58.11	
+Required	
+Required
+
+59.01	
+( N / A )	
+Required
+
+59.02-59.11	
+Required	
+Required
+
+D.	Knitted or Crocheted Fabrics (HS 60)
+
+
+
+HS Code	Necessary processes to obtain originating status in a Party
+	
+Spinning process	Dyeing/Printing process to yarn*	Knitting/ Crocheting process	Dyeing/Printing process to fabrics*
+
+
+
+60.01-60.06	
+Required		
+Required	
+		
+Required	
+Required	
+			
+Required	
+Required
+* “Dyeing/Printing” process shall be accompanied by two or more of the operations referred to in Notes to Section XI (Chapters 50-63).
+
+E.	Apparels, Clothing Accessories and Other Textile Articles (HS 61, 62, 63.01–63.10)
+
+
+
+HS Code	Necessary processes to obtain	originating status in a Party
+	Knitting/Crocheting
+/Weaving process	
+Making up process
+61.01-61.17		
+62.01-62.17	Required	Required
+63.01-63.10		
+

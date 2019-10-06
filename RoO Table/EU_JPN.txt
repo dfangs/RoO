@@ -1,0 +1,1495 @@
+ANNEX 3-A
+
+
+
+INTRODUCTORY NOTES TO PRODUCT SPECIFIC RULES OF ORIGIN
+
+
+
+Note 1 General principles
+1.	This Annex sets out the general rules for the applicable requirements of Annex 3-B provided for in subparagraph 1(c) of Article 3.2.
+
+2.	For the purposes of this Annex and Annex 3-B, the requirements for a product to be originating in accordance with subparagraph 1(c) of Article 3.2 are a change in tariff classification, a production process, a maximum value of non-originating materials, a minimum regional value content, or any other requirement specified in this Annex and Annex 3-B.
+
+3.	Reference to weight in a product specific rule of origin means the net weight, which is the weight of a material or a product, not including the weight of packaging.
+
+4.	This Annex, Annex 3-B and Annex 3-E are based on the Harmonized System, as amended on 1 January 2017.
+ 
+Note 2
+
+
+The structure of Annex 3-B
+
+
+1.	Notes on Sections or Chapters, where applicable, are read in conjunction with the product specific rules of origin for the relevant Section, Chapter, heading or subheading.
+
+2.	Each product specific rule of origin set out in Column 2 of Annex 3-B applies to the corresponding product identified in Column 1 of Annex 3-B.
+
+3.	If a product is subject to alternative product specific rules of origin, the product shall be originating if it satisfies one of the alternatives. If a product is subject to a product specific rule of origin that includes multiple requirements, the product shall be originating only if it satisfies all of the requirements.
+
+4.	For the purpose of this Annex and Annex 3-B,
+
+
+(a)	"Chapter" means the first two-digits in the tariff classification number under the Harmonized System;
+
+(b)	"heading" means the first four-digits in the tariff classification number under the Harmonized System;
+
+(c)	"Section" means a section of the Harmonized System; and
+ 
+(d)	"subheading" means the first six-digits in the tariff classification number under the Harmonized System.
+
+5.	For the purposes of product specific rules of origin, the following abbreviations apply:1
+
+"CC"	means production from non-originating materials of any Chapter, except that of the product, or a change to the Chapter, heading or subheading from any other Chapter; this means that all non-originating materials used in the production of the product must undergo a change in tariff classification at the 2-digit level (i.e. a change in Chapter) of the Harmonized System.
+"CTH"	means production from non-originating materials of any heading, except that of the product, or a change to the Chapter, heading or subheading from any other heading; this means that all non-originating materials used in the production of the product must undergo a change in tariff classification at the 4-digit level (i.e. a change in heading) of the Harmonized System.
+"CTSH"	means production from non-originating materials of any subheading, except that of the product, or a change to the Chapter, heading or subheading from any other subheading; this means that all non-originating materials used in the production of the product must undergo a change in tariff classification at the 6-digit level (i.e. a change in sub-heading) of the Harmonized System.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	For greater certainty, if a requirement of a change in tariff classification provides for exception for a change from certain Chapters, headings or subheadings, none of the non-originating materials of those Chapters, headings or subheadings may be used, individually or jointly.
+ 
+Note 3 Application of Annex 3-B
+1.	Paragraph 3 of Article 3.2, concerning products having acquired originating status which are used in the production of other products, applies irrespective of whether or not this status has been acquired inside the same factory in a Party where those products are used.
+
+2.	If a product specific rule of origin provides that a specified non-originating material may not be used or that the value or weight of a specified non-originating material cannot exceed a specific threshold, those requirements do not apply to non-originating materials classified elsewhere in the Harmonized System.
+
+3.	If a product specific rule of origin provides that a product shall be produced from a particular material, this does not prevent the use of other materials which cannot satisfy the requirement because of their inherent nature.
+ 
+Note 4
+
+
+Calculation of a maximum value of non-originating materials and of a minimum regional value content
+
+Definitions:
+
+
+1.	For the purposes of product specific rules of origin:
+
+
+(a)	"customs value" means the value as determined in accordance with the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994;
+
+(b)	"EXW" means:
+
+
+(i)	the ex-works price of the product paid or payable to the manufacturer in whose undertaking the last working or processing is carried out, provided that the price includes the value of all the materials used and all other costs incurred in the production of a product minus any internal taxes which are, or may be, repaid when the product obtained is exported; or
+ 
+(ii)	if there is no price paid or payable or if the actual price paid does not reflect all costs related to the production of the product which are actually incurred in the production of a product, the value of all the materials used and all other costs incurred in the production of the product in the exporting Party which:
+
+(A)	include selling, general and administrative expenses, as well as profit, that can be reasonably allocated to the product; and
+
+(B)	exclude the costs of freight, insurance, all other costs incurred in transporting the product and any internal taxes of the exporting Party which are, or may be, repaid when the product obtained is exported;
+
+(c)	"FOB" means:
+
+
+(i)	the free on board price of the product paid or payable to the seller regardless of the mode of shipment, provided that the price includes the value of all the materials used and all other costs incurred in the production of a product and its transportation to the exportation port in the Party, minus any internal taxes which are, or may be, repaid when the product obtained is exported; or
+ 
+(ii)	if there is no price paid or payable or if the actual price paid does not reflect all costs related to the production of the product which are actually incurred in the production of a product, the value of all the materials used and all other costs incurred in the production of the product in the exporting Party, and its transportation to the exportation port in the Party which:
+
+(A)	include selling, general and administrative expenses, as well as profit, that can be reasonably allocated to the product, the costs of freight and insurance; and
+
+(B)	exclude any internal taxes of the exporting Party which are, or may be, repaid when the product obtained is exported;
+
+(d)	"MaxNOM" means the maximum value of non-originating materials expressed as a percentage;
+
+(e)	"RVC" means the minimum regional value content of a product, expressed as a percentage; and
+ 
+(f)	"VNM" means the value of non-originating materials used in the production of the product which is its customs value at the time of importation including freight, insurance where appropriate, packing and all the other costs incurred in transporting the materials to the importation port in the Party where the producer of the product is located. Where it is not known and cannot be ascertained, the first ascertainable price paid for the non-originating materials in either Party is used.
+
+2.	For the calculation of MaxNOM and RVC, the following formulas apply:
+
+
+ 
+MaxNOM(%) =  VNM
+EXW
+ 
+
+× 100
+ 
+
+ 
+RVC(%) =  FOB - VNM
+FOB
+ 
+
+× 100
+ 
+Note 5
+
+
+Definitions of processes referred to in Sections V to VII in Annex 3-B For the purposes of product specific rules of origin:
+(a)	"biotechnological processing" means:
+
+
+(i)	biological or biotechnological culturing (including cell culture), hybridisation or genetic modification of micro-organisms (bacteria, viruses (including phages) etc.) or human, animal or plant cells; and
+
+(ii)	production, isolation or purification of cellular or intercellular structures (such as isolated genes, gene fragments and plasmids), or fermentation;
+
+(b)	"change in particle size" means the deliberate and controlled modification in particle size of a product, other than by merely crushing or pressing, resulting in a product with a defined particle size, defined particle size distribution or defined surface area, which is relevant to the purposes of the resulting product and with physical or chemical characteristics different from those of the input materials;
+ 
+(c)	"chemical reaction" means a process (including a biochemical processing) which results in a molecule with a new structure by breaking intramolecular bonds and by forming new intramolecular bonds, or by altering the spatial arrangement of atoms in a molecule, with the exception of the following which are not considered to be chemical reactions for the purpose of this definition:
+
+(i)	dissolving in water or other solvents;
+
+
+(ii)	the elimination of solvents including solvent water; or
+
+
+(iii)	the addition or elimination of water of crystallisation;
+
+
+(d)	"distillation" means:
+
+
+(i)	atmospheric distillation: a separation process in which petroleum oils are converted, in a distillation tower, into fractions according to boiling point and the vapour then condensed into different liquefied fractions; products produced from petroleum distillation may include liquefied petroleum gas, naphtha, gasoline, kerosene, diesel or heating oil, light gas oils and lubricating oil; and
+
+(ii)	vacuum distillation: distillation at a pressure below atmospheric but not so low that it would be classed as molecular distillation; vacuum distillation is used for distilling high-boiling and heat-sensitive materials such as heavy distillates in petroleum oils to produce light to heavy vacuum gas oils and residuum;
+ 
+(e)	"isomer separation" means the isolation or separation of isomers from a mixture of isomers;
+
+
+(f)	"mixing and blending" means the deliberate and proportionally controlled mixing or blending (including dispersing) of materials, other than the addition of diluents, only to conform to predetermined specifications which results in the production of a product having physical or chemical characteristics that are relevant to the purposes or uses of the product and are different from the input materials;
+
+(g)	"production of standard materials" (including standard solutions) means a production of a preparation suitable for analytical, calibrating or referencing uses with precise degrees of purity or proportions certified by the manufacturer; and
+
+(h)	"purification" means a process which results in the elimination of at least 80 per cent of the content of existing impurities.
+
+
+Note 6
+
+
+Definitions of terms used in Section XI of Annex 3-B For the purposes of product specific rules of origin:
+(a)	"man-made staple fibres" means synthetic or artificial filament tow, staple fibres or waste, of headings 55.01 to 55.07;
+ 
+(b)	"natural fibres" means fibres other than synthetic or artificial fibres. Their use is restricted to the stages before spinning takes place, including waste, and, unless otherwise specified, includes fibres which have been carded, combed or otherwise processed, but not spun; "natural fibres" includes horsehair of heading 05.11, silk of headings 50.02 and 50.03,
+wool-fibres and fine or coarse animal hair of headings 51.01 to 51.05, cotton fibres of headings 52.01 to 52.03, and other vegetable fibres of headings 53.01 to 53.05;
+
+(c)	"printing" means a technique by which an objectively assessed function, such as colour, design, or technical performance, is given to a textile substrate with a permanent character, using screen, roller, digital or transfer techniques; and
+
+(d)	"printing (as standalone operation)" means a technique by which an objectively assessed function, such as colour, design, or technical performance, is given to a textile substrate with a permanent character, using screen, roller, digital or transfer techniques combined with at least two preparatory or finishing operations (such as scouring, bleaching, mercerizing, heat setting, raising, calendaring, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling, shearing, singeing, process of air-tumbler, process of stenter, milling, steam and shrinking, and wet decatising), provided that the value of all the non-originating materials used does not exceed 50 per cent of the EXW or 45 per cent of the FOB of the product.
+ 
+Note 7
+
+
+Tolerances applicable to products containing two or more basic textile materials
+
+
+1.	For the purposes of this Note, basic textile materials are the following:
+
+
+(a)	silk;
+
+
+(b)	wool;
+
+
+(c)	coarse animal hair;
+
+
+(d)	fine animal hair;
+
+
+(e)	horsehair;
+
+
+(f)	cotton;
+
+
+(g)	paper-making materials and paper;
+
+
+(h)	flax;
+
+
+(i)	true hemp;
+
+
+(j)	jute and other textile bast fibres;
+
+
+(k)	sisal and other textile fibres of the genus Agave;
+ 
+(l)	coconut, abaca, ramie and other vegetable textile fibres;
+
+
+(m)	synthetic man-made filaments;
+
+
+(n)	artificial man-made filaments;
+
+
+(o)	current-conducting filaments;
+
+
+(p)	synthetic man-made staple fibres of polypropylene;
+
+
+(q)	synthetic man-made staple fibres of polyester;
+
+
+(r)	synthetic man-made staple fibres of polyamide;
+
+
+(s)	synthetic man-made staple fibres of polyacrylonitrile;
+
+
+(t)	synthetic man-made staple fibres of polyimide;
+
+
+(u)	synthetic man-made staple fibres of polytetrafluoroethylene;
+
+
+(v)	synthetic man-made staple fibres of poly (phenylene sulphide);
+ 
+(w)	synthetic man-made staple fibres of poly (vinyl chloride);
+
+
+(x)	other synthetic man-made staple fibres;
+
+
+(y)	artificial man-made staple fibres of viscose;
+
+
+(z)	other artificial man-made staple fibres;
+
+
+(aa) yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped;
+
+(bb) yarn made of polyurethane segmented with flexible segments of polyester whether or not gimped;
+
+(cc) products of heading 56.05 (metallised yarn) incorporating strip consisting of a core of aluminium foil or of a core of plastic film irrespective of whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film;
+
+(dd) other products of heading 56.05; (ee)   glass fibres; and
+(ff)	metal fibres.
+ 
+2.	Where reference to this Note is made in Annex 3-B, the requirements set out in its Column 2 shall not apply, as a tolerance, to non-originating basic textile materials which are used in the production of a product, provided that:
+
+(a)	the product contains two or more basic textile materials; and
+
+
+(b)	the weight of the non-originating basic textile materials, taken together, does not exceed 10 per cent of the total weight of all the basic textile materials used.
+
+For example:
+
+
+For a woollen fabric of heading 51.12 containing woollen yarn of heading 51.07, synthetic yarn of staple fibres of heading 55.09 and materials other than basic textile materials,
+non-originating woollen yarn which does not satisfy the requirement set out in Annex 3-B, or non-originating synthetic yarn which does not satisfy the requirement set out in Annex 3-B, or a combination of both, may be used, provided that their total weight does not exceed
+10 per cent of the weight of all the basic textile materials.
+
+
+3.	Notwithstanding Note 7.2 (b), for products containing "yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped", the maximum tolerance is 20 per cent. However, the percentage of the other non-originating basic textile materials shall not exceed 10 per cent.
+ 
+4.	Notwithstanding Note 7.2 (b), for products containing "strip consisting of a core of aluminium foil or of a core of plastic film irrespective of whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film", the maximum tolerance is 30 per cent. However, the percentage of the other non-originating basic textile materials shall not exceed 10 per cent.
+
+5.	For a product of headings 51.06 to 51.10 and headings 52.04 to 52.07, non-originating
+man-made fibres may be used in the process of spinning of natural fibres, provided that their total weight does not exceed 40 per cent of the weight of the product.
+
+
+Note 8
+
+
+Other tolerances applicable to certain textile products
+
+
+1.	Where reference to this Note is made in Annex 3-B, non-originating textile materials (with the exception of linings and interlinings) which do not satisfy the requirements set out in its Column 2 for a made-up textile product may be used, provided that they are classified in a heading other than that of the product and that their value does not exceed 8 per cent of the EXW or FOB of the product.
+ 
+2.	Non-originating materials which are not classified in Chapters 50 to 63 may be used without restriction in the production of textile products classified in Chapters 61 to 63, whether or not they contain textiles.
+
+For example:
+
+
+If a requirement set out in Annex 3-B provides that yarn shall be used, for a certain textile item (such as trousers), this does not prevent the use of non-originating metal items (such as buttons), because metal items are not classified in Chapters 50 to 63. For the same reasons, it does not prevent the use of non-originating slide fasteners, even though slide-fasteners normally contain textiles.
+
+3.	Where a requirement set out in Annex 3-B consists in a maximum value of non-originating materials, the value of the non-originating materials which are not classified in Chapters 50 to 63 shall be taken into account in the calculation of the value of the non-originating materials.
+
+
+
+
+
+ 
+ANNEX 3-B
+
+
+
+PRODUCT SPECIFIC RULES OF ORIGIN
+
+
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION I	LIVE ANIMALS; ANIMAL PRODUCTS
+Chapter 1	Live animals
+01.01-01.06	All animals of Chapter 1 are wholly obtained.
+Chapter 2	Meat and edible meat offal
+02.01-02.10	Production in which all the materials of Chapters 1 and 2 used are wholly obtained.
+Chapter 3	Fish and crustaceans, molluscs and other aquatic invertebrates
+- Atlantic Bluefin tuna (Thunnus thynnus):	All Atlantic Bluefin tuna (Thunnus thynnus) is wholly obtained; or
+production in which Atlantic Bluefin tuna (Thunnus thynnus) is subject to caging in farms with subsequent feeding and fattening/farming for a minimum period of 3 months in a Party. The duration of the fattening or farming shall be established according to the date of the caging operation and the date of harvesting recorded in the electronic Bluefin tuna Catch Document (eBCD) of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	All fish and crustaceans, molluscs and other aquatic invertebrates are wholly obtained.
+Chapter 4	Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included
+04.01-04.10	Production in which all the materials of Chapter 4 used are wholly obtained.
+Chapter 5	Products of animal origin, not elsewhere specified or included
+05.01-05.11	CTH
+SECTION II	VEGETABLE PRODUCTS
+Chapter 6	Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage
+06.01-06.04	Production in which all the materials of Chapter 6 used are wholly obtained.
+Chapter 7	Edible vegetables and certain roots and tubers
+07.01-07.14	Production in which all the materials of Chapter 7 used are wholly obtained.
+Chapter 8	Edible fruit and nuts; peel of citrus fruit or melons
+08.01-08.14	Production in which all the materials of Chapter 8 used are wholly obtained.
+Chapter 9	Coffee, tea, maté and spices
+09.01	CTSH; or
+Blending.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+0902.10-0902.20	Production in which all the materials of subheadings 0902.10 and 0902.20 used are wholly obtained.
+0902.30-0903.00	CTSH; or
+Blending.
+09.04-09.10	CTSH; or
+Blending, crushing or grinding.
+Chapter 10	Cereals
+10.01-10.08	Production in which all the materials of Chapter 10 used are wholly obtained.
+Chapter 11	Products of the milling industry; malt; starches; inulin; wheat gluten
+11.01-11.09	Production in which all the materials of Chapters 10 and 11, headings 07.01, 07.13, 07.14 and 23.03, subheading 0710.10 and dried potatoes of subheading 0712.90 used are wholly obtained.
+Chapter 12	Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder
+12.01	CTH
+12.02-12.14	CTH except from heading 12.01.
+Chapter 13	Lac; gums, resins and other vegetable saps and extracts
+1301.20-1302.19	CTH
+1302.20	CTSH; however, non-originating pectic substances may be used.
+1302.31	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+1302.32	CTSH; however, non-originating mucilages and thickeners derived from locust beans may be used.
+1302.39	CTH
+Chapter 14	Vegetable plaiting materials; vegetable products not elsewhere specified or included
+14.01-14.04	Production in which all the materials of Chapter 14 used are wholly obtained.
+SECTION III	ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES
+Chapter 15	Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes
+15.01-15.06	CTH
+15.07	Production in which all the materials of headings 12.01 and 15.07 used are wholly obtained.
+15.08	CTH
+15.09-15.10	Production in which all the vegetable materials used are wholly obtained.
+15.11-15.13	CTH
+15.14	
+- Rape or Colza oil and its fractions:	Production in which all the materials of headings 12.05 and 15.14 used are wholly obtained.
+- Mustard oil and its fractions:	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+15.15	
+- Rice bran oil and its fractions:	Production in which all the materials of headings 10.06 and 15.15 used are wholly obtained.
+- Others:	CTH
+1516.10-1517.10	CTH
+1517.90	
+- Mixed vegetable oils not further processed:	CC
+- Others:	CTH
+15.18-15.22	CTH
+SECTION IV	PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES
+Chapter 16	Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates
+16.01-16.02	Production in which all the materials of Chapters 2, 3 and 16 and heading
+10.06 used are wholly obtained.
+16.03	Production in which all the materials of Chapters 2, 3 and 16 used are wholly obtained.
+16.04-16.05	Production in which all the materials of Chapters 2, 3 and 16 and heading
+10.06 used are wholly obtained.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 17	Sugars and sugar confectionery
+17.01	CTH
+17.02	CTH, provided that:
+-	the weight of non-originating materials of heading 04.04 used does not exceed 10 % of the weight of the product;
+-	the total weight of non-originating materials of headings 11.01 to 11.08 used does not exceed 10 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 17.01 and 17.03 used does not exceed 20 % of the weight of the product.
+17.03	CTH
+17.04	CTH, provided that the total weight of the non-originating materials of headings 17.01 and 17.02 used does not exceed 40 % of the weight of the product.
+Chapter 18	Cocoa and cocoa preparations
+18.01-18.05	CTH
+18.06	CTH, provided that:
+- the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 30 % of the weight of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 19	Preparations of cereals, flour, starch or milk; pastrycooks' products
+19.01	CC, provided that:
+-	the weight of non-originating materials of Chapter 4 used does not exceed 10 % of the weight of the product;
+-	the total weight of non-originating materials of headings 10.01, 10.03,
+10.06 and 11.01 to 11.08 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 20 % of the weight of the product.
+19.02	CC, provided that:
+-	the total weight of non-originating materials of Chapters 2, 3 and 16 used does not exceed 10 % of the weight of the product;
+-	the weight of non-originating materials of heading 10.01 used does not exceed 90 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 10.06 and 11.01 to 11.08 used does not exceed 10 % of the weight of the product.
+19.03	CC, provided that the total weight of non-originating materials of headings
+10.06 and 11.01 to 11.08 used does not exceed 10 % of the weight of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+19.04	CC, provided that:
+-	the weight of non-originating materials of Chapter 4 used does not exceed 10 % of the weight of the product;
+-	the total weight of non-originating materials of headings 10.01, 10.03,
+10.06 and 11.01 to 11.08 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 30 % of the weight of the product.
+19.05	CTH, provided that:
+-	the weight of non-originating materials of Chapter 4 used does not exceed 10 % of the weight of the product;
+-	the total weight of non-originating materials of headings 10.03, 10.06 and
+11.01 to 11.08 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 30 % of the weight of the product.
+Chapter 20	Preparations of vegetables, fruit, nuts or other parts of plants
+20.01	CC
+20.02-20.03	Production in which all the materials of Chapter 7 used are wholly obtained.
+20.04-20.08	CTH, provided that beans (Vigna spp., Phaseolus spp.), peas (Pisum sativum), pineapples, oranges, potatoes and asparagus used are wholly obtained.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+20.09	CTH, provided that pineapples, oranges, tomatoes, apples and grapes used are wholly obtained.
+Chapter 21	Miscellaneous edible preparations
+21.01	CC, provided that:
+- the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product;
+-	the weight of non-originating materials of heading 10.03 used does not exceed 10 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 40 % of the weight of the product.
+2102.10-2103.10	CTH
+2103.20	CC except from headings 07.02 and 20.02.
+2103.30	CTSH; however, non-originating mustard flour may be used.
+2103.90	CTSH
+21.04	CTH
+21.05	CTH, provided that:
+- the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 20 % of the weight of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+21.06	CTH, provided that:
+-	the materials of Konnyaku of subheading 1212.99 used are wholly obtained;
+-	the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product;
+-	the weight of non-originating materials of heading 10.01 used does not exceed 30 % of the weight of the product;
+-	the weight of non-originating materials of heading 10.03 used does not exceed 10 % of the weight of the product;
+-	the weight of non-originating materials of heading 10.06 used does not exceed 10 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 30 % of the weight of the product.
+Chapter 22	Beverages, spirits and vinegar
+22.01	CTH
+22.02	CTH, provided that:
+- the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product; and
+- the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 40 % of the weight of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+22.03-22.08	CTH except from headings 22.07 and 22.08, provided that:
+-	all the materials of subheadings 0806.10, 2009.61 and 2009.69 used are wholly obtained;
+-	the weight of non-originating materials of Chapter 4 used does not exceed 40 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 40 % of the weight of the product.
+22.09	CTH except from headings 22.07 and 22.08, provided that all the materials of heading 10.06 and subheadings 0806.10, 2009.61 and 2009.69 used are wholly obtained.
+Chapter 23	Residues and waste from the food industries; prepared animal fodder
+23.01	CTH
+23.02-23.03	CTH, provided that the weight of non-originating materials of Chapter 10 used does not exceed 20 % of the weight of the product.
+23.04-23.08	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+23.09	CTH, provided that:
+-	all the materials of Chapters 2 and 3 used are wholly obtained;
+-	the total weight of non-originating materials of Chapter 4 and heading
+19.01 used does not exceed 10 % of the weight of the product;
+-	the total weight of non-originating materials of Chapters 10 and 11 and headings 23.02 and 23.03 used does not exceed 10 % of the weight of the product; and
+-	the total weight of non-originating materials of headings 17.01 and 17.02 used does not exceed 30 % of the weight of the product.
+Chapter 24	Tobacco and manufactured tobacco substitutes
+24.01	CC
+2402.10	CTH, provided that the weight of non-originating materials of Chapter 24 used does not exceed 30 % of the weight of the product.
+2402.20-2403.99	CTH;
+MaxNOM 35 % (EXW); or RVC 70 % (FOB).
+SECTION V	MINERAL PRODUCTS
+Section note: For definitions of horizontal processing rules within this Section, see Note 5 of Annex 3-A.
+Chapter 25	Salt; sulphur; earths and stone; plastering materials, lime and cement
+25.01	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+25.02-25.30	CTH;
+MaxNOM 70 % (EXW); or RVC 35 % (FOB).
+Chapter 26	Ores, slag and ash
+26.01-26.21	CTH
+Chapter 27	Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes
+27.01-27.09	CTH;
+A chemical reaction or mixing and blending is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+27.10	CTH except from biodiesel of subheadings 3824.99 and 3826.00; or
+Distillation or a chemical reaction is undergone, provided that biodiesel (including hydrotreated vegetable oil) of heading 27.10 and subheadings 3824.99 and 3826.00 used is obtained by esterification, transesterification or hydrotreatment.
+27.11	CTSH; or
+A chemical reaction is undergone.
+27.12-27.15	CTH;
+A chemical reaction or mixing and blending is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION VI	PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+Section note: For definitions of horizontal processing rules within this Section, see Note 5 of Annex 3-A.
+Chapter 28	Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes
+28.01-28.53	CTSH;
+A chemical reaction, purification, production of standard materials, or isomer separation is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 29	Organic chemicals
+2901.10-2905.42	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2905.43-2905.44	CTH except from heading 17.02 and subheading 3824.60.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+2905.45	CTH; however, non-originating materials of subheading 2905.45 may be used, provided that their total value does not exceed 20 % of the EXW or 15 % of the FOB of the product;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2905.49-2905.59	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2906.11	CTSH
+2906.12-2918.13	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2918.14-2918.15	CTSH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+2918.16-2922.41	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2922.42	CTSH
+2922.43-2923.10	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2923.20	CTSH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2923.30-2924.24	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+2924.25-2924.29	CTSH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2925.11-2938.10	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+2938.90	CTSH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+29.39	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+29.40	CTSH
+29.41-29.42	CTSH;
+A chemical reaction, purification, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 30	Pharmaceutical products
+30.01-30.06	CTSH;
+A chemical reaction, purification, mixing and blending, production of standard materials, a change in particle size, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 31	Fertilisers
+31.01-31.04	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+31.05	
+-	Sodium nitrate
+-	Calcium cyanamide
+-	Potassium sulphate
+-	Magnesium potassium sulphate	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+- Others	CTH and MaxNOM 50 % (EXW); or CTH and RVC 55 % (FOB);
+however, non-originating materials of heading 31.05 may be used, provided that their total value does not exceed 20 % of the EXW or 15 % of the FOB of the product;
+MaxNOM 40 % (EXW); or RVC 65 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 32	Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks
+32.01-32.05	CTSH;
+A chemical reaction, purification, mixing and blending, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+3206.11-3206.19	CTH; however, non-originating materials of heading 32.06 may be used, provided that their total value does not exceed 20 % of the EXW or 15 % of the FOB of the product;
+MaxNOM 40 % (EXW); or RVC 65 % (FOB).
+3206.20-3215.90	CTSH;
+A chemical reaction, purification, mixing and blending, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 33	Essential oils and resinoids; perfumery, cosmetic or toilet preparations
+3301.12-3302.10	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+3302.90-3303.00	CTSH;
+A chemical reaction, purification, mixing and blending, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+33.04	CTSH;
+A chemical reaction, purification, mixing and blending, a change in particle size, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB)
+33.05-33.07	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 34	Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+34.01-34.07	CTSH;
+A chemical reaction, purification, production of standard materials or isomer separation is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 35	Albuminoidal substances; modified starches; glues; enzymes
+35.01	CTH
+3502.11 - 3502.19	CTH except from headings 04.07 and 04.08.
+3502.20 – 3504.00	CTH
+35.05	CC except from heading 11.08.
+35.06-35.07	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 36	Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations
+36.01-36.06	CTSH;
+A chemical reaction, production of standard materials or isomer separation is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 37	Photographic or cinematographic goods
+37.01-37.07	CTSH;
+A chemical reaction, production of standard materials or isomer separation is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 38	Miscellaneous chemical products
+38.01-38.08	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+3809.10	CTH except from headings 11.08 and 35.05.
+3809.91-3822.00	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+38.23	CTSH
+3824.10-3824.50	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+3824.60	CTH except from heading 17.02 and subheadings 2905.43 and 2905.44.
+3824.71-3824.91	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+3824.99	
+- Biodiesel	Production in which biodiesel is obtained through transesterification, esterification or hydro-treatment.
+- Others	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+38.25	CTSH;
+A chemical reaction, purification, production of standard materials, isomer separation or biotechnological processing is undergone;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+38.26	Production in which biodiesel is obtained through transesterification, esterification or hydro-treatment.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION VII	PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+Section note: For definitions of horizontal processing rules within this Section, see Note 5 of Annex 3-A.
+Chapter 39	Plastics and articles thereof
+39.01-39.03	CTSH;
+A chemical reaction is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+39.04-39.06	CTSH;
+A chemical reaction or biotechnological processing is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+39.07-39.08	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+39.09-39.10	CTSH;
+A chemical reaction or biotechnological processing is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+39.11	CTSH;
+A chemical reaction is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+39.12-39.15	CTSH;
+A chemical reaction or biotechnological processing is undergone; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+39.16-39.26	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 40	Rubber and articles thereof
+40.01 – 40.11	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+4012.11-4012.19	CTSH;
+Retreading of used tyres; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+4012.20-4017.00	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION VIII	RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES THEREOF; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLE OF ANIMAL GUT(OTHER THAN SILK-WORM GUT)
+Chapter 41	Raw hides and skins (other than furskins) and leather
+41.01-41.03	CC
+4104.11- 4104.19	CTH
+4104.41-4104.49	CTSH except from subheadings 4104.41 to 4104.49.
+4105.10	CTH
+4105.30	CTSH
+4106.21	CTH
+4106.22	CTSH
+4106.31	CTH
+4106.32	CTSH
+4106.40	
+- A product in the wet state:	CTH
+- A product in the dry state:	CTH; or
+Production from non-originating materials in the wet state.
+4106.91	CTH
+4106.92	CTSH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+41.07-41.13	CTH; however, non-originating materials of subheadings 4104.41, 4104.49, 4105.30, 4106.22, 4106.32 and 4106.92 may be used, provided that a
+re-tanning operation of the tanned or crust hides and skins in the dry state takes place.
+41.14-41.15	CTH
+Chapter 42	Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)
+42.01-42.06	CC;
+CTH and MaxNOM45 % (EXW); or CTH and RVC60 % (FOB).
+Chapter 43	Furskins and artificial fur; manufactures thereof
+43.01	CC
+43.02-43.04	CTH
+SECTION IX	WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK
+Chapter 44	Wood and articles of wood; wood charcoal
+44.01-44.21	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 45	Cork and articles of cork
+45.01-45.04	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 46	Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork
+4601.21-4601.22	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+4601.29	CC except from Chapter 14.
+4601.92-4601.93	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+4601.94	CC except from Chapter 14.
+4601.99-4602.12	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+4602.19	CC except from Chapter 14.
+4602.90	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION X	PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES THEREOF
+Chapter 47	Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard
+47.01-47.07	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 48	Paper and paperboard; articles of paper pulp, of paper or of paperboard
+48.01-48.23	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 49	Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans
+49.01-49.11	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION XI	TEXTILES AND TEXTILE ARTICLES
+Section note: For definitions of terms used for and tolerances applicable to certain products made of textile materials, see Notes 6, 7 and 8 of
+Annex 3-A.
+Chapter 50	Silk
+50.01	CTH
+50.02	CTH except from heading 50.01.
+50.03	
+- Carded or combed:	Carding or combing of silk waste.
+- Others:	CTH
+50.04-50.05	Spinning of natural fibres;
+Extrusion of man-made continuous filament combined with spinning; Extrusion of man-made continuous filament combined with twisting; or Twisting combined with any mechanical operation.
+50.06	
+- Silk yarn and yarn spun from silk waste:	Spinning of natural fibres;
+Extrusion of man-made continuous filament combined with spinning; Extrusion of man-made continuous filament combined with twisting; or Twisting combined with any mechanical operation.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Silk-worm gut:	CTH
+50.07	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving; Twisting or any mechanical operation combined with weaving; Weaving combined with dyeing;
+Yarn dyeing combined with weaving; Weaving combined with printing; or Printing (as standalone operation).
+Chapter 51	Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+51.01-51.05	CTH
+51.06-51.10	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+51.11-51.13	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving; Weaving combined with dyeing;
+Yarn dyeing combined with weaving; Weaving combined with printing; or Printing (as standalone operation).
+Chapter 52	Cotton
+52.01-52.03	CTH
+52.04-52.07	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+52.08-52.12	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving; Twisting or any mechanical operation combined with weaving; Weaving combined with dyeing or with coating or with laminating; Yarn dyeing combined with weaving;
+Weaving combined with printing; or Printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 53	Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
+53.01-53.05	CTH
+53.06-53.08	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+53.09-53.11	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving; Weaving combined with dyeing or with coating or with laminating: Yarn dyeing combined with weaving:
+Weaving combined with printing; or Printing (as standalone operation).
+Chapter 54	Man-made filaments; strip and the like of man-made textile materials
+54.01-54.06	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+ 
+Column 1	Column 2
+Harmonized System	Product specific rule of origin
+classification (2017)	
+including specific	
+description	
+54.07-54.08	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving;
+Yarn dyeing combined with weaving;
+Weaving combined with dyeing or with coating or with laminating; Twisting or any mechanical operation combined with weaving; Weaving combined with printing; or
+Printing (as standalone operation).
+Chapter 55	Man-made staple fibres
+55.01-55.07	Extrusion of man-made fibres.
+55.08-55.11	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+55.12-55.16	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving; Twisting or any mechanical operation combined with weaving; Weaving combined with dyeing or with coating or with laminating; Yarn dyeing combined with weaving;
+Weaving combined with printing; or Printing (as standalone operation).
+Chapter 56	Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof
+56.01	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; Flocking combined with dyeing or with printing; or
+Coating, flocking, laminating, or metalising combined with at least two other main preparatory or finishing operations (such as calendering, shrink-resistance processes, heat setting, permanent finishing), provided that the value of non-originating materials used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+56.02	
+- Needleloom felt:	Extrusion of man-made fibres combined with fabric formation; however:
+-	non-originating polypropylene filament of heading 54.02;
+-	non-originating polypropylene fibres of heading 55.03 or 55.06; or
+-	non-originating polypropylene filament tow of heading 55.01;
+of which the denomination in all cases of a single filament or fibre is less than 9 decitex, may be used, provided that their total value does not exceed 40 % of the EXW or 35 % of the FOB of the product; or
+Non-woven fabric formation alone in the case of felt made from natural fibres.
+- Others:	Extrusion of man-made fibres combined with fabric formation; or
+Non-woven fabric formation alone in the case of other felt made from natural fibres.
+5603.11-5603.14	Production from
+-	directionally or randomly oriented filaments; or
+-	substances or polymers of natural or man-made origin; followed in both cases by bonding into a nonwoven.
+ 
+Column 1	Column 2
+Harmonized System	Product specific rule of origin
+classification (2017)	
+including specific	
+description	
+5603.91-5603.94	Production from
+-	directionally or randomly oriented staple fibres; or
+-	chopped yarns, of natural or man-made origin; followed in both cases by bonding into a nonwoven.
+5604.10	Production from rubber thread or cord, not textile covered.
+5604.90	Spinning of natural fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+56.05	Spinning of natural or man-made staple fibres;
+Extrusion of man-made fibres combined with spinning; or Twisting combined with any mechanical operation.
+56.06	Extrusion of man-made fibres combined with spinning; Twisting combined with gimping;
+Spinning of natural or man-made staple fibres; or Flocking combined with dyeing.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+56.07-56.09	Spinning of natural fibres; or
+Extrusion of man-made fibres combined with spinning.
+Chapter 57	Carpets and other textile floor coverings
+Chapter note: For products of this Chapter jute fabric may be used as a backing.
+57.01-57.05	Spinning of natural or man-made staple fibres combined with weaving or with tufting;
+Extrusion of man-made filament yarn combined with weaving or with tufting;
+Production from coir yarn or sisal yarn or jute yarn or classical ring spun viscose yarn;
+Tufting combined with dyeing or with printing; Flocking combined with dyeing or with printing; or
+Extrusion of man-made fibres combined with nonwoven techniques including needle punching.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 58	Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+58.01-58.04	Spinning of natural or man-made staple fibres combined with weaving or with tufting;
+Extrusion of man-made filament yarn combined with weaving or with tufting;
+Weaving combined with dyeing or with flocking or with coating or with laminating or with metalising;
+Tufting combined with dyeing or with printing; Flocking combined with dyeing or with printing; Yarn dyeing combined with weaving;
+Weaving combined with printing; or Printing (as standalone operation).
+58.05	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+58.06-58.09	Spinning of natural or man-made staple fibres combined with weaving or with tufting;
+Extrusion of man-made filament yarn combined with weaving or with tufting;
+Weaving combined with dyeing or with flocking or with coating or with laminating or with metalising;
+Tufting combined with dyeing or with printing; Flocking combined with dyeing or with printing; Yarn dyeing combined with weaving;
+Weaving combined with printing; or Printing (as standalone operation).
+58.10	Embroidering in which the value of non-originating materials of any heading, except that of the product, used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+58.11	Spinning of natural or man-made staple fibres combined with weaving or with tufting;
+Extrusion of man-made filament yarn combined with weaving or with tufting;
+Weaving combined with dyeing or with flocking or with coating or with laminating or with metalising;
+Tufting combined with dyeing or with printing; Flocking combined with dyeing or with printing; Yarn dyeing combined with weaving;
+Weaving combined with printing; or Printing (as standalone operation).
+Chapter 59	Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use
+59.01	Weaving combined with dyeing or with flocking or with coating or with laminating or with metalising; or
+Flocking combined with dyeing or with printing.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+59.02	
+- Containing not more than 90 % by weight of textile materials:	Weaving
+- Others:	Extrusion of man-made fibres combined with weaving.
+59.03	Weaving combined with impregnating or with coating or with covering or with laminating or with metalising;
+Weaving combined with printing; or Printing (as standalone operation).
+59.04	Weaving combined with dyeing or with coating or with laminating or with metalising.
+59.05	
+- Impregnated, coated, covered or laminated with rubber, plastics or other materials:	Weaving, knitting or non-woven fabric formation combined with impregnating or with coating or with covering or with laminating or with metalising.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made filament yarn combined with weaving;
+Weaving, knitting or nonwoven fabric formation combined with dyeing or with coating or with laminating;
+Weaving combined with printing; or Printing (as standalone operation).
+59.06	
+- Knitted or crocheted fabrics:	Spinning of natural or man-made staple fibres combined with knitting or with crocheting;
+Extrusion of man-made filament yarn combined with knitting or with crocheting;
+Knitting or crocheting combined with rubberising; or
+Rubberising combined with at least two other main preparatory or finishing operations (such as calendering, shrink-resistance processes, heat setting, permanent finishing) provided that the value of non-originating materials used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+- Other fabrics made of synthetic filament yarn, containing more than 90 % by weight of textile materials:	Extrusion of man-made fibres combined with weaving.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	Weaving, knitting or nonwoven process combined with dyeing or with coating or with rubberising;
+Yarn dyeing combined with weaving, knitting or nonwoven process; or
+Rubberising combined with at least two other main preparatory or finishing operations (such as calendering, shrink-resistance processes, heat setting, permanent finishing) provided that the value of non-originating materials used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+59.07	Weaving, knitting or nonwoven fabric formation combined with dyeing or with printing or with coating or with impregnating or with covering;
+Flocking combined with dyeing or with printing; or Printing (as standalone operation).
+59.08	
+- Incandescent gas mantles, impregnated:	Production from tubular knitted or crocheted gas-mantle fabric.
+- Others:	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+59.09-59.11	Spinning of natural or man-made staple fibres combined with weaving; Extrusion of man-made fibres combined with weaving;
+Weaving combined with dyeing or with coating or with laminating; or
+Coating, flocking, laminating or metalising combined with at least two other main preparatory or finishing operations (such as calendering,
+shrink-resistance processes, heat setting, permanent finishing) provided that the value of non-originating materials used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+Chapter 60	Knitted or crocheted fabrics
+60.01-60.06	Spinning of natural or man-made staple fibres combined with knitting or with crocheting;
+Extrusion of man-made filament yarn combined with knitting or with crocheting;
+Knitting or crocheting combined with dyeing or with flocking or with coating or with laminating or with printing;
+Flocking combined with dyeing or with printing;
+Yarn dyeing combined with knitting or with crocheting; or
+Twisting or texturing combined with knitting or with crocheting provided that the value of non-originating non-twisted or non-textured yarns used does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 61	Articles of apparel and clothing accessories, knitted or crocheted
+61.01-61.17	
+- Obtained by sewing together or otherwise assembling, two or more pieces of knitted or crocheted fabric which have been either cut to form or obtained directly to form:	Knitting or crocheting combined with making-up including cutting of fabric.
+- Others:	Spinning of natural or man-made staple fibres combined with knitting or with crocheting;
+Extrusion of man-made filament yarn combined with knitting or with crocheting; or
+Knitting and making-up in one operation.
+Chapter 62	Articles of apparel and clothing accessories, not knitted or crocheted
+62.01	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+62.02	
+- Embroidered:	Weaving combined with making-up including cutting of fabric; or
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.03	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.04	
+- Embroidered:	Weaving combined with making-up including cutting of fabric; or
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+62.05	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.06	
+- Embroidered:	Weaving combined with making-up including cutting of fabric; or
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.07-62.08	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.09	
+- Embroidered:	Weaving combined with making-up including cutting of fabric; or
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.10	
+- Fire-resistant equipment of fabric covered with foil of aluminised polyester:	Weaving combined with making-up including cutting of fabric; or
+Coating or laminating combined with making-up including cutting of fabric, provided that the value of non-originating uncoated or unlaminated fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.11	
+- Women's or girls' garments, embroidered:	Weaving combined with making-up including cutting of fabric; or
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+62.12	
+- Knitted or crocheted obtained by sewing together or otherwise assembling, two or more pieces of knitted or crocheted fabric which have been either cut to form or obtained directly to form:	Knitting combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.13-62.14	
+- Embroidered	Weaving combined with making-up including cutting of fabric;
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.15	Weaving combined with making-up including cutting of fabric; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+62.16	
+- Fire-resistant equipment of fabric covered with foil of aluminised polyester:	Weaving combined with making-up including cutting of fabric; or
+Coating or laminating combined with making-up including cutting of fabric, provided that the value of non-originating uncoated or unlaminated fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric: or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+62.17	
+- Embroidered:	Weaving combined with making-up including cutting of fabric;
+Production from unembroidered fabric, provided that the value of
+non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product; or
+Making-up including cutting of fabric preceded by printing (as standalone operation).
+- Fire-resistant equipment of fabric covered with foil of aluminised polyester:	Weaving combined with making-up including cutting of fabric; or
+Coating or laminating combined with making-up including cutting of fabric, provided that the value of non-originating uncoated or unlaminated fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Interlinings for collars and cuffs, cut out:	CTH, provided that the value of all the non-originating materials used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+- Others:	Weaving combined with making-up including cutting of fabric.
+Chapter 63	Other made up textile articles; sets; worn clothing and worn textile articles; rags
+63.01-63.04	
+- Of felt, of nonwovens:	Nonwoven fabric formation combined with making-up including cutting of fabric.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:
+-- Embroidered:	
+Weaving or knitting or crocheting combined with making-up including cutting of fabric; or
+Production from unembroidered fabric (other than knitted or crocheted), provided that the value of non-originating unembroidered fabric used does not exceed 40 % of the EXW or 35 % of the FOB of the product.
+-- Others:	Weaving, knitting or crocheting combined with making-up including cutting of fabric.
+63.05	Extrusion of man-made fibres or spinning of natural or man-made staple fibres, combined with weaving or with knitting and making-up including cutting of fabric.
+63.06	
+- Of nonwovens:	Nonwoven fabric formation combined with making-up including cutting of fabric.
+- Others:	Weaving combined with making-up including cutting of fabric.
+63.07	MaxNOM 40 % (EXW); or RVC 65 % (FOB).
+63.08	Each item in the set must satisfy the rule which would apply to it if it were not included in the set; however, non-originating articles may be incorporated, provided that their total value does not exceed 15 % of the EXW or FOB of the set.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+63.09-63.10	CTH
+SECTION XII	FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR
+Chapter 64	Footwear, gaiters and the like; parts of such articles
+64.01-64.06	CC;
+CTH except from headings 64.01 to 64.05 and from assemblies of uppers affixed to inner soles of subheading 6406.90 and MaxNOM 50 % (EXW); or
+CTH except from headings 64.01 to 64.05 and from assemblies of uppers affixed to inner soles of subheading 6406.90 and RVC 55 % (FOB).
+Chapter 65	Headgear and parts thereof
+65.01-65.07	CTH
+Chapter 66	Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof
+66.01-66.03	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 67	Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+67.01-67.04	CTH
+SECTION XIII	ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE
+Chapter 68	Articles of stone, plaster, cement, asbestos, mica or similar materials
+68.01-68.15	CTH;
+MaxNOM 70 % (EXW); or RVC 35 % (FOB).
+Chapter 69	Ceramic products
+69.01-69.14	CTH
+Chapter 70	Glass and glassware
+70.01-70.05	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+70.06	
+- Coated glass-plate substrates:	CTH; or
+Production from non-coated glass-plate substrate of heading 70.06.
+- Others:	CTH except from headings 70.02 to 70.05.
+70.071 -70.09	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	For the products of subheadings 7007.11 and 7007.21, see also Appendix 3-B-1.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+70.10	
+- Glass and glassware, container made of glass:	CTH; however, non-originating materials of heading 70.10 may be used, provided that their total value does not exceed 15 % of the EXW or the FOB of the product.
+- Others:	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+70.11	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+70.13	CTH; however, non-originating materials of heading 70.13 may be used provided that their total value does not exceed 15 % of the EXW or the FOB of the product.
+70.14-70.17	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+7018.10	CTH
+7018.20	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+7018.90	CTH
+70.19-70.20	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION XIV	NATURAL OR CULTURED PEARLS, PRECIOUS OR
+SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN
+Chapter 71	Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin
+71.01	CC
+71.02-71.04	CTSH
+71.05	CTH
+71.06	
+- Unwrought:	CTH except from headings 71.06, 71.08 and 71.10;
+Electrolytic, thermal or chemical separation of precious metals of headings 71.06, 71.08 and 71.10; or
+Fusion or alloying of precious metals of headings 71.06, 71.08 and 71.10 with each other or with base metals or purification.
+- Semi-manufactured or in powder form:	Production from unwrought precious metals.
+71.07	
+- Metals clad with precious metals, semi-manufactured:	Production from metals clad with precious metals, unwrought.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Others:	CTH
+71.08	
+- Unwrought:	CTH except from headings 71.06, 71.08 and 71.10;
+Electrolytic, thermal or chemical separation of precious metals of headings 71.06, 71.08 and 71.10; or
+Fusion or alloying of precious metals of headings 71.06, 71.08 and 71.10 with each other or with base metals or purification.
+- Semi-manufactured or in powder form:	Production from unwrought precious metals.
+71.09	
+- Metals clad with precious metals, semi-manufactured:	Production from metals clad with precious metals, unwrought.
+- Others:	CTH
+71.10	
+- Unwrought:	CTH except from headings 71.06, 71.08 and 71.10;
+Electrolytic, thermal or chemical separation of precious metals of headings 71.06, 71.08 and 71.10; or
+Fusion or alloying of precious metals of headings 71.06, 71.08 and 71.10 with each other or with base metals or purification.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+- Semi-manufactured or in powder form:	Production from unwrought precious metals.
+71.11	
+- Metals clad with precious metals, semi-manufactured:	Production from metals clad with precious metals, unwrought.
+- Others:	CTH
+71.12	CTH
+71.13-71.17	CTH except from headings 71.13 to 71.17; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+71.18	CTH
+SECTION XV	BASE METALS AND ARTICLES OF BASE METAL
+Chapter 72	Iron and steel
+72.01-72.06	CTH
+72.07	CTH except from heading 72.06.
+72.08-72.17	CTH except from headings 72.08 to 72.17.
+7218.10	CTH
+7218.91-7218.99	CTH except from heading 72.06.
+72.19-72.23	CTH except from headings 72.19 to 72.23.
+7224.10	CTH
+7224.90	CTH except from heading 72.06.
+72.25-72.29	CTH except from headings 72.25 to 72.29.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 73	Articles of iron or steel
+7301.10	CC except from headings 72.08 to 72.17.
+7301.20	CTH
+73.02	CC except from headings 72.08 to 72.17.
+73.03	CTH
+73.04-73.06	CC except from headings 72.13 to 72.17, 72.21 to 72.23 and 72.25 to
+72.29.
+73.07	
+- Tube or pipe fittings of stainless steel:	CTH except from forged blanks of heading 72.07; however,
+non-originating forged blanks of heading 72.07 may be used provided that their value does not exceed 50 % of the EXW or 45 % of the FOB of the product.
+- Others:	CTH
+73.08	CTH except from subheading 7301.20; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+7309.00-7315.19	CTH
+7315.20	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+7315.81-7319.90	CTH
+7320.10	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+7320.20-7326.90	CTH
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 74	Copper and articles thereof
+74.01-74.02	CTH
+74.03	CTSH
+74.04-74.19	CTH
+Chapter 75	Nickel and articles thereof
+75.01-75.04	CTSH
+75.05-75.08	CTH
+Chapter 76	Aluminium and articles thereof
+76.01	CTSH
+76.02-76.06	CTH and MaxNOM 50 % (EXW); or CTH and RVC 55 % (FOB).
+76.07	CTH except from heading 76.06.
+7608.10-7616.91	CTH and MaxNOM 50 % (EXW); or CTH and RVC 55 % (FOB).
+7616.99	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 78	Lead and articles thereof
+7801.10	CTSH
+7801.91-7801.99	CTH except from heading 78.02.
+78.02-78.04	CTH
+78.06	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 79	Zinc and articles thereof
+79.01-79.07	CTH
+Chapter 80	Tin and articles thereof
+80.01-80.07	CTH
+Chapter 81	Other base metals; cermets; articles thereof
+81.01-81.13	CTSH; or
+Production from non-originating materials of any heading by the use of refining, smelting or thermal metal forming.
+Chapter 82	Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+8201.10-8205.70	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+8205.90	CTH; however, non-originating tools of heading 82.05 may be incorporated into the set, provided that their total value does not exceed 15 % of the EXW or the FOB of the set.
+82.06	CTH except from headings 82.02 to 82.05; however, non-originating tools of headings 82.02 to 82.05 may be incorporated into the set, provided that their total value does not exceed 15 % of the EXW or the FOB of the set.
+82.07-82.15	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 83	Miscellaneous articles of base metal
+83.01-83.11	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+SECTION XVI	MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES
+Chapter 84	Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+84.01-84.06	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.07-84.081	MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.09-84.24	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	For headings 84.07 to 84.08, see also Appendix 3-B-1.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+84.25-84.30	CTH except from heading 84.31; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.31-84.43	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.44-84.47	CTH except from heading 84.48; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.48-84.55	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.56-84.65	CTH except from heading 84.66; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.66-84.68	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.70-84.72	CTH except from heading 84.73; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+84.73-84.87	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 85	Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles
+85.01-85.02	CTH except from heading 85.03; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.03-85.18	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.19-85.21	CTH except from heading 85.22; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.22-85.23	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.25-85.28	CTH except from heading 85.29; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.29-85.34	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+85.35-85.37	CTH except from heading 85.38; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+85.38-85.39	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+8540.11-8540.12	CTSH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+8540.20-8540.99	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+8541.10-8541.60	CTSH;
+Non-originating materials used undergo a diffusion; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+8541.90	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+8542.31-8542.39	CTSH;
+Non-originating materials used undergo a diffusion; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+8542.90-8543.90	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+8544.11-8544.60	CTH except from headings 74.08, 74.13, 76.05 and 76.14; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+8544.70	CTH except from headings 70.02 and 90.01; MaxNOM 50 % (EXW); or
+RVC 55 % (FOB).
+85.45-85.48	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+SECTION XVII	VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT
+Chapter 86	Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds
+86.01-86.09	CTH except from heading 86.07; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 87	Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof
+87.01 -87.071	MaxNOM 45 % (EXW); or RVC 60 % (FOB).
+87.082	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+87.09-87.11	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+87.12	MaxNOM 45 % (EXW); or RVC 60 % (FOB).
+87.13-87.16	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 88	Aircraft, spacecraft, and parts thereof
+88.01-88.05	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	For headings 87.01 to 87.07, see also Appendix 3-B-1.
+2	For heading 87.08, see also Appendix 3-B-1.
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+Chapter 89	Ships, boats and floating structures
+89.01-89.08	CTH except from hull(s) of heading 89.06; MaxNOM 40 % (EXW); or
+RVC 65 % (FOB).
+SECTION XVIII	OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES THEREOF
+Chapter 90	Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof
+9001.10-9001.40	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+9001.50	CTH;
+Production in which one of the following operations is made:
+-	surfacing of the semi-finished lens into a finished ophthalmic lens with optical corrective power meant to be mounted on a pair of spectacles; or
+-	coating of the lens through appropriated treatments to improve vision and ensure protection of the wearer;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+9001.90-9033.00	CTH except from heading 96.20; MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 91	Clocks and watches and parts thereof
+9101.11-9113.20	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+9113.90	CTH
+91.14	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 92	Musical instruments; parts and accessories of such articles
+92.01-92.09	MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+SECTION XIX	ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF
+Chapter 93	Arms and ammunition; parts and accessories thereof
+93.01-93.07	MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+SECTION XX	MISCELLANEOUS MANUFACTURED ARTICLES
+Chapter 94	Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings
+9401.10-9401.80	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+9401.90	CC
+94.02-94.06	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 95	Toys, games and sports requisites; parts and accessories thereof
+95.03-95.05	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+95.06	
+- Golf clubs and parts thereof:	CTH; however non-originating roughly-shaped blocks for making golf-club heads may be used.
+- Others:	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+ 
+Column 1 Harmonized System classification (2017) including specific description	Column 2
+Product specific rule of origin
+95.07-95.08	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+Chapter 96	Miscellaneous manufactured articles
+96.01	CC
+96.02-96.04	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+96.05	Each item in the set shall satisfy the rule which would apply to it if it were not included in the set, provided that non-originating articles may be incorporated, provided that their total value does not exceed 15 % of the EXW or the FOB of the set.
+96.06-96.20	CTH;
+MaxNOM 50 % (EXW); or RVC 55 % (FOB).
+SECTION XXI	WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES
+Chapter 97	Works of art, collectors' pieces and antiques
+97.01-97.06	CTH
+
