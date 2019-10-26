@@ -1258,8 +1258,7 @@ classification to heading 40.05 through
 4012.11-4012.19      A change to subheading 4012.11 through 4012.19 from any other subheading; 
  
  	No required change in tariff 
-classification to subheading 4012.11 through 4012.19, provided that there is a qualifying value content of not less 
-
+classification to subheading 4012.11 through 4012.19, provided that there is a qualifying value content of not less than 40 per cent; or
  
  	No required change in tariff classification to subheading 4012.11 through 4012.19, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer 
 separation or biotechnological processes in a Party. 
@@ -2783,7 +2782,7 @@ classification to heading 85.01 through
  	No required change in tariff 
 classification to subheading 8504.10 through 8504.50, provided that there is a qualifying value content of not less than 40 per cent. 
  
-8504.90               A change to subheading 8504.90 from any other any other heading; or 
+8504.90               A change to subheading 8504.90 from any other heading; or 
  
  	No required change in tariff 
 classification to subheading 8504.90, provided that there is a qualifying value content of not less than 40 per cent. 
@@ -3247,7 +3246,7 @@ other heading; or
  	A change to subheading 9025.11 through 9025.80 from any other subheading; or 
  
  	No required change in tariff classification to subheading 9025.11 through 9025.80, provided that there is a qualifying value content of not less than 40 per cent. 
-9025.90 	A change to subheading 9025.90 from any 
+9025.90 	A change to subheading 9025.90 from any other heading; or
  
 
  
@@ -3300,7 +3299,7 @@ other heading; or
  	A change to subheading 9031.10 through 9031.80 from any other subheading; or 
  
  	No required change in tariff classification to subheading 9031.10 through 9031.80, provided that there is a qualifying value content of not less than 40 per cent. 
-9031.90 	A change to subheading 9031.90 from any 
+9031.90 	A change to subheading 9031.90 from any other heading; or
  
  	No required change in tariff classification to subheading 9031.90, provided that there is a qualifying value content of not less than 40 per cent. 
 9032.10-9032.89 

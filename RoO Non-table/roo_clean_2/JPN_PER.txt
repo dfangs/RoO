@@ -1607,7 +1607,9 @@ subheading 8451.10 through 8451.80 is required, provided that there is a qualify
  
 8451.90 A change to subheading 8451.90 from any other heading; or  
  
-No change in tariff classification to subheading 8451.90 is required, provided that 8452.10 A change to subheading 8452.10 from any other heading; or  
+No change in tariff classification to subheading 8451.90 is required, provided that there is a qualifying value content of not less than 40 percent.
+
+8452.10 A change to subheading 8452.10 from any other heading; or  
  
  	No change in tariff classification to 
 subheading 8452.10 is required, provided that there is a qualifying value content of not less than 50 percent. 

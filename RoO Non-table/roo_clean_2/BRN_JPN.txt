@@ -268,6 +268,7 @@ classification to subheading 2208.20 through 2208.30, provided that there is a q
  
 2208.70 	A change to subheading 2208.70 from any other heading, except from heading 22.07; or  
  
+		No required change in tariff
 classification to subheading 2208.70, provided that there is a qualifying value content of not less than 40 percent. 
  
 2208.90 	A change to sake compound or cooking sake (Mirin) of subheading 2208.90 from any other heading, provided that there is a qualifying value content of not less than 40 percent.  
@@ -326,6 +327,8 @@ classification to subheading 2506.29 through 2507.00, provided that there is a q
 classification to subheading 2508.10, provided that there is a qualifying value content of not less than 40 percent. 
  
 2508.20-2508.60 A change to subheading 2508.20 through 2508.60 from any other subheading; or  
+
+		No required change in tariff
 classification to subheading 2508.20 through 2508.60, provided that there is a qualifying value content of not less than 40 percent. 
  
 2508.70 	A change to subheading 2508.70 from any other chapter; or 
@@ -382,7 +385,9 @@ classification to subheading 2523.10 through 2525.20, provided that there is a q
  	 	No required change in tariff 
 classification to subheading 2525.30, provided that there is a qualifying value content of not less than 40 percent. 
  
-2526.10-2530.90 A change to subheading 2526.10 through 2530.90 from any other subheading; or  
+2526.10-2530.90 A change to subheading 2526.10 through 2530.90 from any other subheading; or
+
+		No required change in tariff
 classification to subheading 2526.10 through 2530.90, provided that there is a qualifying value content of not less than 40 percent. 
  
 Chapter 26 	Ores, Slag and Ash 
@@ -741,6 +746,8 @@ classification to heading 33.01, provided that there is a qualifying value conte
  
 3302.10-3307.90 A change to subheading 3302.10 through 
 3307.90 from any other subheading;   
+
+		No required change in tariff
 classification to subheading 3302.10 through 3307.90, provided that there is a qualifying value content of not less 
 than 40 percent; or 
  
@@ -766,7 +773,7 @@ classification to subheading 3401.11 through 3407.00, provided that nonoriginati
  
 Chapter 35 	Albuminoidal Substances; Modified Starches; Glues; Enzymes 
  
-35.01 	A change to heading 35.01 from any 
+35.01 	A change to heading 35.01 from any other
 chapter. 
  
 3502.11-3502.19 A change to subheading 3502.11 through 3502.19 from any other chapter, except from chapter 4.  
@@ -831,6 +838,7 @@ classification to subheading 3802.90 through 3805.20, provided that nonoriginati
 3806.10-3806.20 A change to subheading 3806.10 through 
 3806.20 from any other subheading;   
  
+		No required change in tariff
 classification to subheading 3806.10 through 3806.20, provided that there is a qualifying value content of not less than 40 percent; or  
  
  	 	No required change in tariff 
@@ -958,6 +966,8 @@ Chapter 44  	Wood and Articles of Wood; Wood Charcoal
 Chapter 45 	Cork and Articles of Cork 
  
 4501.10-4504.90 A change to subheading 4501.10 through 4504.90 from any other subheading; or  
+
+		No required change in tariff
 classification to subheading 4501.10 through 4504.90, provided that there is a qualifying value content of not less than 40 percent. 
  
 Chapter 46 	Manufactures of Straw, of Esparto or of 
@@ -1589,6 +1599,8 @@ classification to subheading 8112.40 through 8112.51, provided that there is a q
 8112.52 	No required change in tariff classification to subheading 8112.52, provided that the waste and scrap are wholly obtained or produced entirely in a Party as defined in Article 24. 
  
 8112.59-8113.00 A change to subheading 8112.59 through 8113.00 from any other subheading; or  
+
+		No required change in tariff
 classification to subheading 8112.59 through 8113.00, provided that there is a qualifying value content of not less than 40 percent. 
 Chapter 82 	Tools, Implements, Cutlery, Spoons and Forks, of Base Metal; Parts Thereof of Base Metal 
  
@@ -1618,6 +1630,7 @@ classification to subheading 8401.10 through 8473.29, provided that there is a q
 8473.30 	A change to subheading 8473.30 from any other heading, except from heading 
 85.42; or 
  
+		No required change in tariff
 classification to subheading 8473.30, provided that there is a qualifying value content of not less than 40 percent. 
 8473.40-8485.90 A change to subheading 8473.40 through 8485.90 from any other subheading; or 
  
@@ -1645,6 +1658,8 @@ classification to subheading 8523.90, provided that there is a qualifying value 
 classification to subheading 8524.10 through 8541.90, provided that there is a qualifying value content of not less than 40 percent. 
  
 8542.10 	A change to subheading 8542.10 from any other heading; or  
+
+		No required change in tariff
 classification to subheading 8542.10, provided that there is a qualifying value content of not less than 40 percent. 
 8542.21-8543.40 A change to subheading 8542.21 through 8543.40 from any other subheading; or 
  
