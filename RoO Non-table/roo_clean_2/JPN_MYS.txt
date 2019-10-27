@@ -359,6 +359,7 @@ classification to subheading 2505.10 through 2506.21, provided there is a qualif
  
 2506.29-2507.00 	A change to subheading 2506.29 through 2507.00 from any other subheading; or  
  
+			No required change in tariff
 classification to subheading 2506.29 through 2507.00, provided there is a qualifying value content of not less than 40 percent. 
  	
 2508.10  	 
@@ -387,6 +388,7 @@ classification to subheading 2506.29 through 2507.00, provided there is a qualif
 2513.20-2514.00 	A change to subheading 2513.20 through 
 2514.00 from any other subheading; or 
  
+			No required change in tariff
 classification to subheading 2513.20 through 2514.00, provided there is a qualifying value content of not less than 40 percent. 
  	
 2515.11-2516.22 
@@ -416,6 +418,7 @@ classification to subheading 2513.20 through 2514.00, provided there is a qualif
  	No required change in tariff classification to subheading 2524.00 through 2525.20, provided there is a qualifying value content of not less than 40 percent. 
 2525.30  	 	A change to subheading 2525.30 from any other chapter; or 
  
+			No required change in tariff
 classification to subheading 2525.30, provided there is a qualifying value content of not less than 40 percent. 
  	
 2526.10-2530.90 
@@ -447,6 +450,7 @@ Chapter 26
 2617.10-2618.00 	A change to subheading 2617.10 through 
 2618.00 from any other subheading; or 
  
+			No required change in tariff
 classification to subheading 2617.10 through 2618.00, provided there is a qualifying value content of not less than 40 percent. 
  
 26.19-26.21 	 	A change to heading 26.19 through 26.21 from any other chapter; or 
@@ -473,6 +477,8 @@ classification to subheading 2702.10 through 2709.00, provided there is a qualif
 classification to subheading 2710.11 through 2710.19, provided there is a qualifying value content of not less than 40 percent. 
  
 2710.91-2710.99 	A change to subheading 2710.91 through 2710.99 from any other chapter; or  
+
+			No required change in tariff
 classification to subheading 2710.91 through 2710.99, provided there is a qualifying value content of not less than 40 percent. 
  
 2711.11-2715.00 	A change to subheading 2711.11 through 2715.00 from any other subheading; or  
@@ -525,6 +531,8 @@ classification to subheading 2901.10 through 2905.43, provided there is a qualif
  
 2905.45-2905.59 	A change to subheading 2905.45 through 
 2905.59 from any other subheading; or   
+
+			No required change in tariff
 classification to subheading 2905.45 through 2905.59, provided there is a qualifying value content of not less than 40 percent. 
  
 2906.11  	 	A change to subheading 2906.11 from any 
@@ -554,6 +562,7 @@ Chapter 30 	 	Pharmaceutical Products
  
 30.01-30.03 	 	A change to heading 30.01 through 30.03 from any other heading; or 
  
+			No required change in tariff
 classification to heading 30.01 through 30.03, provided there is a qualifying value content of not less than 40 percent. 
  
 30.04 	 	 	A change to heading 30.04 from any other heading, except from heading 
@@ -584,6 +593,7 @@ classification to heading 32.01 through 32.05, provided there is a qualifying va
  
 32.06 	 	 	A change to heading 32.06 from any other heading, except from chapter 28; or 
  
+				No required change in tariff
 classification to heading 32.06, provided there is a qualifying value content of not less than 40 percent. 
  
 32.07-32.15 	 	A change to heading 32.07 through 32.15 from any other heading; or 
@@ -1356,7 +1366,7 @@ Thereof
 8401.10-8485.90 	A change to subheading 8401.10 through 
 8485.90 from any other subheading; or 
  
- 
+ 			No required change in tariff
 classification to subheading 8401.10 through 8485.90, provided there is a qualifying value content of not less than 40 percent. 
 Chapter 85 	 
  	Electrical Machinery and Equipment and 
@@ -1419,6 +1429,8 @@ classification to subheading 8801.10 through 8805.29, provided there is a qualif
  
 Chapter 89 	 	Ships, Boats and Floating Structures  
 8901.10-8908.00 	A change to subheading 8901.10 through 8908.00 from any other subheading; or  
+
+			No required change in tariff
 classification to subheading 8901.10 through 8908.00, provided there is a qualifying value content of not less than 40 percent. 
 Section XVIII  
  	Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; 

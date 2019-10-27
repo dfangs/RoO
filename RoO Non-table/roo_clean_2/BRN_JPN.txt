@@ -591,6 +591,7 @@ classification to subheading 2906.12 through 2914.19, provided that nonoriginati
 classification to subheading 2914.22 through 2918.13, provided that there is a qualifying value content of not less 
 than 40 percent; or  
  
+		No required change in tariff
 classification to subheading 2914.22 through 2918.13, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 2918.14-2918.15 A change to subheading 2918.14 through 2918.15 from any other heading. 
  
@@ -643,6 +644,8 @@ classification to subheading 2925.11 through 2938.10, provided that nonoriginati
  	 	No required change in tariff 
 classification to subheading 2939.11 through 2939.99, provided that there is a qualifying value content of not less 
 than 40 percent; or  
+
+		No required change in tariff
 classification to subheading 2939.11 through 2939.99, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 29.40 	A change to heading 29.40 from any other heading, provided that, where nonoriginating materials of heading 17.02 are used, each of the non-originating materials is produced entirely in a nonParty which is a member country of the 
 ASEAN. 
@@ -692,6 +695,8 @@ Chapter 31 	Fertilizers
  	 	No required change in tariff 
 classification to subheading 3101.00 through 3105.90, provided that there is a qualifying value content of not less 
 than 40 percent; or  
+
+		No required change in tariff
 classification to subheading 3101.00 through 3105.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 Chapter 32 	Tanning or Dyeing Extracts; Tannins and 
 Their Derivatives; Dyes, Pigments and 
@@ -812,6 +817,8 @@ Chapter 37 	Photographic or Cinematographic Goods
  	 	No required change in tariff 
 classification to subheading 3701.10 through 3707.90, provided that there is a qualifying value content of not less 
 than 40 percent; or  
+
+		No required change in tariff
 classification to heading 3701.10 through 3707.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 Chapter 38 	Miscellaneous Chemical Products 
  
@@ -866,6 +873,8 @@ classification to subheading 3809.10, provided that there is a qualifying value 
  
   	 	No required change in tariff 
 classification to subheading 3809.91 through 3822.00, provided that there is a qualifying value content of not less than 40 percent; or   
+
+		No required change in tariff
 classification to subheading 3809.91 through 3822.00, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 38.23 	A change to heading 38.23 from any other chapter. 
  
@@ -886,6 +895,8 @@ classification to subheading 3824.60, provided that there is a qualifying value 
  
  	 	No required change in tariff 
 classification to subheading 3824.71 through 3824.90, provided that there is a qualifying value content of not less than 40 percent; or   
+
+		No required change in tariff
 classification to subheading 3824.71 through 3824.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 38.25   
  	No required change in tariff classification to heading 38.25, provided that the waste and scrap are wholly obtained or produced entirely in a Party as defined in Article 24. 
@@ -908,6 +919,8 @@ classification to heading 39.15, provided that the waste and scrap are wholly ob
  
  	 	No required change in tariff 
 classification to subheading 3916.10 through 3926.90, provided that there is a qualifying value content of not less than 40 percent; or   
+
+		No required change in tariff
 classification to subheading 3916.10 through 3926.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 Chapter 40 	Rubber and Articles Thereof 
  
@@ -1385,7 +1398,7 @@ classification to subheading 7113.20 through 7114.20, provided that there is a q
 71.15 	A change to heading 71.15 from any other heading, except from heading 71.13 through 71.14 or 71.16 through 71.18. 
  
 7116.10 	A change to subheading 7116.10 from any other heading, except from heading 71.13 through 71.15, 71.17 through  71.18, or subheading 7101.22, 7102.39, 7103.91, 
-7103,99 or 7104.90. 
+7103.99 or 7104.90. 
  
 7116.20 	A change to subheading 7116.20 from any other heading, except from subheading 7101.22 or 7102.39.  
  

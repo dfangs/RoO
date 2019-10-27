@@ -524,6 +524,7 @@ than 40 percent; or
 separation or biotechnological processes in a Party. 
 2804.61-2804.69 	A change to subheading 2804.61 through 2804.69 from any other subheading;  
  
+	No required change in tariff
 classification to subheading 2804.61 through 2804.69, provided that there is a qualifying value content of not less than 40 percent; or 
 No required change in tariff classification to subheading 2804.61 through 2804.69, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
@@ -543,7 +544,7 @@ percent; or
  
  	No required change in tariff classification to subheading 2814.10, provided that non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 2814.20 	A change to subheading 2814.20 from any other heading;  
- 
+ 	No required change in tariff
 classification to subheading 2814.20, provided that there is a qualifying value content of not less than 40 percent; or 
  	
  
@@ -569,7 +570,7 @@ than 40 percent; or
  	No required change in tariff classification to subheading 2843.10 through 2843.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer 
 separation or biotechnological processes in a Party. 
 28.44-28.51 	A change to heading 28.44 through 28.51 from any other heading;  
- 
+ 	No required change in tariff
 classification to heading 28.44 through 
 28.51, provided that there is a qualifying value content of not less than 40 percent; or 
 No required change in tariff classification to heading 28.44 through 28.51, provided that non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
@@ -592,7 +593,7 @@ separation or biotechnological processes in a Party.
  	No required change in tariff classification to subheading 2905.49 through 2905.59, provided that there is a qualifying value content of not less 
 than 40 percent; or 
  
- 
+ 	No required change in tariff
 classification to subheading 2905.49 through 2905.59, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
 2906.11 
@@ -618,6 +619,7 @@ separation or biotechnological processes in a Party.
 2916.15 
  	A change to subheading 2916.15 from any other chapter, except from chapter 15. 
 2916.19-2918.13 	A change to subheading 2916.19 through 2918.13 from any other subheading; 
+	No required change in tariff
 classification to subheading 2916.19 through 2918.13, provided that there is a qualifying value content of not less than 40 percent; or 
 No required change in tariff classification to subheading 2916.19 through 2918.13, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
@@ -637,6 +639,7 @@ separation or biotechnological processes in a Party.
  	A change to subheading 2922.43 through 2923.10 from any other subheading; 
  	No required change in tariff classification to subheading 2922.43 through 2923.10, provided that there is a qualifying value content of not less 
 than 40 percent; or 
+	No required change in tariff
 classification to subheading 2922.43 through 2923.10, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
 2923.20 
@@ -662,6 +665,7 @@ separation or biotechnological processes in a Party.
 2938.90 
  	A change to subheading 2938.90 from any other heading. 
 2939.11-2939.99 	A change to subheading 2939.11 through 2939.99 from any other subheading; 
+	No required change in tariff
 classification to subheading 2939.11 through 2939.99, provided that there is a qualifying value content of not less than 40 percent; or 
 No required change in tariff classification to subheading 2939.11 through 2939.99, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
@@ -886,7 +890,7 @@ other subheading; or
  	No required change in tariff classification to subheading 3805.90, provided that there is a qualifying value content of not less than 40 percent. 
 3806.10-3806.20 	A change to subheading 3806.10 through 3806.20 from any other subheading;  
  
- 
+ 	No required change in tariff
 classification to subheading 3806.10 through 3806.20, provided that there is a qualifying value content of not less than 40 percent; or  
  
  	No required change in tariff 
@@ -935,6 +939,7 @@ separation or biotechnological processes in a Party.
 3824.71-3824.90 
  	A change to subheading 3824.71 through 3824.90 from any other heading; 
  	No required change in tariff classification to subheading 3824.71 through 3824.90, provided that there is a qualifying value content of not less than 40 percent; or  
+	No required change in tariff
 classification to subheading 3824.71 through 3824.90, provided that nonoriginating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  
 38.25 	No required change in tariff 
@@ -1002,6 +1007,7 @@ Chapter 39 	 	Plastics and Articles Thereof
  	No required change in tariff 
 classification to heading 39.01 through 
 39.13, provided that there is a qualifying value content of not less than 40 percent; or  
+	No required change in tariff
 classification to heading 39.01 through 39.13, provided that non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  	
 39.14-39.26 

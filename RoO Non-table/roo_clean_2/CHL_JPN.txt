@@ -440,6 +440,7 @@ through 2905.42, provided
 2905.43–2905.45 A change to subheading 2905.43 through 
 2905.45 from any other heading; or 
  
+	No required change in tariff
 classification to subheading 2905.43 through 2905.45, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used. 
  
 2905.49–2905.59 A change to subheading 2905.49 through 2905.59 from any other subheading; 
@@ -484,6 +485,8 @@ through 2912.60, provided
  
  	No required change in tariff 
 classification to heading 29.13, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or  
+
+	No required change in tariff
 classification to heading 29.13, provided non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party.  
 2914.11–2914.19 A change to subheading 2914.11 through 2914.19 from any other subheading; 
  
@@ -529,6 +532,7 @@ classification to heading 29.19, provided non-originating materials used undergo
  	No required change in tariff 
 classification to subheading 2920.10 through 2922.41, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
+	No required change in tariff
 classification to subheading 2920.10 through 2922.41, provided  non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 2922.42 	A change to subheading 2922.42 from any other subheading. 
  
@@ -571,6 +575,8 @@ classification to heading 29.27 through 29.28, provided non-originating material
 2929.10–2930.90 A change to subheading 2929.10 through 2930.90 from any other subheading;  
  	No required change in tariff 
 classification to subheading 2929.10 through 2930.90, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
+
+	No required change in tariff
 classification to subheading 2929.10 through 2930.90, provided  non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 29.31 	A change to heading 29.31 from any other heading; 
  
@@ -613,6 +619,7 @@ through 2938.10, provided
  	No required change in tariff 
 classification to subheading 2939.11 through 2939.99, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
+	No required change in tariff
 classification to subheading 2939.11 through 2939.99, provided  non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 29.40 	A change to heading 29.40 from any other heading. 
  
@@ -655,6 +662,7 @@ classification to heading 30.01 through
  	No required change in tariff 
 classification to subheading 3005.10 through 3006.70, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
+	No required change in tariff
 classification to subheading 3005.10 through 3006.70, provided  non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 3006.80 
  	No required change in tariff classification to subheading 3006.80, provided the waste is wholly obtained or produced entirely in a Party as defined in Article 29. 
@@ -700,6 +708,7 @@ classification to heading 32.02 through
  	No required change in tariff classification to heading 32.06, provided non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 32.07–32.15 	A change to heading 32.07 through 32.15 from any other heading; 
  
+		No required change in tariff
 classification to heading 32.07 through 32.15, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
  	No required change in tariff 
@@ -752,6 +761,7 @@ Starches; Glues; Enzymes
  	A change to heading 35.03 through 35.05 from any other heading.  
 35.06–35.07 	A change to heading 35.06 through 35.07 from any other heading; 
  
+		No required change in tariff
 classification to heading 35.06 through 35.07, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
  	No required change in tariff 
@@ -799,6 +809,8 @@ through 3801.90, provided
  	non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
  
 3802.10 	A change to subheading 3802.10 from any other heading; or  
+
+	No required change in tariff
 classification to subheading 3802.10, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used. 
 3802.90–3804.00 A change to subheading 3802.90 through 3804.00 from any other heading;  
  	No required change in tariff 
@@ -844,6 +856,7 @@ classification to heading 38.07 through
  	No required change in tariff 
 classification to subheading 3809.91 through 3814.00, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
+	No required change in tariff
 classification to subheading 3809.91 
 through 3814.00, provided  
  	non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
@@ -866,7 +879,7 @@ classification to heading 38.16 through
 38.22, provided non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
 38.23 	A change to heading 38.23 from any other heading; or 
  
- 
+ 	No required change in tariff
 classification to heading 38.23, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used. 
  
 3824.10–3824.50 A change to subheading 3824.10 through 
@@ -968,7 +981,7 @@ Chapter 40
  	 	No required change in tariff 
 classification to subheading 4001.21 through 4001.29, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
-
+	No required change in tariff
 	classification to subheading 4001.21 through 4001.29, provided  
  	 
  	non-originating materials used undergo a chemical reaction, purification, isomer separation or biotechnological processes in a Party. 
@@ -990,6 +1003,7 @@ classification to heading 40.02 through
 40.04 
  	No required change in tariff classification to heading 40.04, provided the waste and scrap are wholly obtained or produced entirely in a Party as defined in Article 29. 
 40.05–40.11 	A change to heading 40.05 through 40.11 from any other heading; 
+		No required change in tariff
 classification to heading 40.05 through 40.11, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  
  	 	No required change in tariff 
@@ -1012,6 +1026,7 @@ classification to subheading 4012.20, provided non-originating materials used un
  
 4012.90 	A change to subheading 4012.90 from any other heading; 
  
+		No required change in tariff
 classification to subheading 4012.90, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used; or 
  	
  	 
@@ -1611,6 +1626,8 @@ classification to subheading 8215.10 through 8215.20, provided there is a qualif
  
 Chapter 83 	Miscellaneous Articles of Base Metal  
 8301.10–8301.50 A change to subheading 8301.10 through 8301.50 from any other heading; or  
+
+	No required change in tariff
  classification to subheading 8301.10 through 8301.50, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used. 
  	
 8301.60 
@@ -1717,7 +1734,7 @@ classification to subheading 8415.10 through 8415.83, provided there is a qualif
  
 8417.90 	A change to subheading 8417.90 from any other heading. 
  
-8418.10–8418.69 A change to subheading 8418.10 through 8418.69 from any other heading: or  
+8418.10–8418.69 A change to subheading 8418.10 through 8418.69 from any other heading; or  
  	No required change in tariff 
 classification to subheading 8418.10 through 8418.69, provided there is a qualifying value content of not less than 45 percent when the Build-down method is used, or of not less than 30 percent when the Build-up method is used. 
  
